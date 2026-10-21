@@ -1,51 +1,51 @@
 # University Logo Recognition
 
-A Computer Vision coursework project that uses a convolutional neural network (CNN) to classify university logos. It prepares images with Pillow and NumPy, trains a TensorFlow/Keras model, and displays a university name and website from a CSV file.
+โปรเจกต์ในวิชา Computer Vision สำหรับจำแนกโลโก้มหาวิทยาลัยด้วยโครงข่ายประสาทเทียมแบบคอนโวลูชัน (CNN) ใช้ Pillow และ NumPy เตรียมภาพ ฝึกโมเดลด้วย TensorFlow/Keras และอ่านชื่อมหาวิทยาลัยกับเว็บไซต์จาก CSV มาแสดงผล
 
-Start with **[logo.ipynb](logo.ipynb)** to follow the work from image preparation to a prediction example. The task is image classification, not locating logos inside a photograph.
+เริ่มอ่านที่ **[logo.ipynb](logo.ipynb)** เพื่อดูตั้งแต่การเตรียมภาพจนถึงตัวอย่างการทำนาย โปรแกรมจำแนกว่าภาพเป็นโลโก้ของมหาวิทยาลัยใด ไม่ได้ค้นหาตำแหน่งโลโก้ภายในภาพถ่าย
 
-## Run the notebook
+## วิธีเปิด Notebook
 
-1. Open this project folder in VS Code with the Python and Jupyter extensions.
-2. Create a separate environment from the project terminal:
+1. เปิดโฟลเดอร์โปรเจกต์ใน VS Code ที่ติดตั้งส่วนขยาย Python และ Jupyter
+2. สร้างสภาพแวดล้อม Python แยกสำหรับโปรเจกต์ โดยรันใน Terminal ของโฟลเดอร์นี้:
 
    ```powershell
    python -m venv .venv
    .\.venv\Scripts\python.exe -m pip install -r requirements.txt
    ```
 
-3. Open `logo.ipynb` and select the `.venv` Python environment as the kernel. On another operating system, use that environment's Python executable instead.
-4. Run the cells in order. The notebook finds its data when the working directory is this project or one of its subfolders.
+3. เปิด `logo.ipynb` แล้วเลือก Python ใน `.venv` เป็น kernel หากใช้ระบบปฏิบัติการอื่น ให้ใช้ตำแหน่ง Python ของสภาพแวดล้อมนั้นแทน
+4. รันแต่ละ cell ตามลำดับ โดยให้โฟลเดอร์ทำงานอยู่ในโปรเจกต์นี้หรือโฟลเดอร์ย่อย เพื่อให้ Notebook หาไฟล์ข้อมูลพบ
 
-**Before running the training cell, back up `model.h5` and `label.npy`. Training replaces both files.** To try an existing model without training, run the import and path cells, then the model-loading, prediction-function, and example cells. Skip model creation, training, and training-history charts.
+**ก่อนรัน cell ฝึกโมเดล ให้สำรอง `model.h5` และ `label.npy` เพราะการฝึกจะบันทึกทับทั้งสองไฟล์** หากต้องการลองโมเดลเดิมโดยไม่ฝึกใหม่ ให้รันส่วนเรียกใช้ไลบรารีและกำหนดพาธ แล้วไปที่ส่วนโหลดโมเดล ฟังก์ชันทำนาย และตัวอย่างการทำนาย ข้ามส่วนสร้างโมเดล ฝึกโมเดล และกราฟประวัติการฝึก
 
-`model.h5` is kept locally and excluded from Git because of its size. A fresh checkout does not include a pretrained model. You need a matching model and label file to run predictions. Read the limitations below before training or interpreting the predictions.
+ไฟล์ `model.h5` เก็บอยู่ในเครื่องและถูกยกเว้นจาก Git เนื่องจากมีขนาดใหญ่ ไฟล์ที่ดาวน์โหลดจาก repo จึงไม่มีโมเดลที่ฝึกไว้ การทำนายต้องใช้โมเดลและไฟล์ label ที่เป็นคู่กัน อ่านข้อจำกัดด้านล่างก่อนฝึกหรือแปลผลการทำนาย
 
-## Files
+## หน้าที่ของแต่ละไฟล์
 
-- `logo.ipynb`: the main walkthrough, training charts, and prediction example.
-- `train.py`: an alternative training script. Run `python train.py` to train, not to test the installation.
-- `test.py`: a manual prediction example. Run `python test.py` with a matching model and label file. This is not an automated test suite.
-- `university_info.csv`: university names in English and Thai, plus website links.
-- `Logo/`: training images grouped by university folder.
-- `Image/`: example images used to try predictions. These are not an independent test set.
-- `label.npy`: the saved mapping from class numbers to university names. Keep it paired with its model and load only trusted copies.
+- `logo.ipynb`: อธิบายขั้นตอนหลัก พร้อมกราฟการฝึกและตัวอย่างการทำนาย
+- `train.py`: สคริปต์สำหรับฝึกโมเดลอีกทางหนึ่ง คำสั่ง `python train.py` จะเริ่มฝึกจริง ไม่ใช่แค่ทดสอบการติดตั้ง
+- `test.py`: ตัวอย่างการทำนายภาพด้วยตนเอง รันด้วย `python test.py` โดยต้องมีโมเดลและ label ที่เป็นคู่กัน ไฟล์นี้ไม่ใช่ชุดทดสอบอัตโนมัติ
+- `university_info.csv`: ชื่อมหาวิทยาลัยภาษาอังกฤษ ภาษาไทย และลิงก์เว็บไซต์
+- `Logo/`: ภาพฝึก แยกโฟลเดอร์ตามมหาวิทยาลัย
+- `Image/`: ภาพตัวอย่างสำหรับลองทำนาย ไม่ใช่ชุดทดสอบที่แยกจากข้อมูลฝึก
+- `label.npy`: ข้อมูลจับคู่หมายเลขคลาสกับชื่อมหาวิทยาลัย เก็บคู่กับโมเดล และโหลดเฉพาะไฟล์จากแหล่งที่เชื่อถือได้
 
-The notebook and scripts use RGB images resized to **256 × 256** pixels and scaled to the range 0–1. Resizing can stretch a non-square logo. A model trained with a different image size needs the matching preprocessing.
+Notebook และสคริปต์ใช้ภาพ RGB ขนาด **256 × 256** พิกเซล และปรับค่าพิกเซลให้อยู่ในช่วง 0–1 การย่อภาพอาจทำให้โลโก้ที่ไม่ใช่สี่เหลี่ยมจัตุรัสเสียสัดส่วน หากใช้โมเดลที่ฝึกด้วยขนาดภาพอื่น ต้องเตรียมภาพให้ตรงกับโมเดลนั้น
 
-The notebook includes training-history charts. The training script uses all loaded images without a validation split, so it is not an evaluation substitute for the notebook.
+Notebook มีกราฟประวัติการฝึก ส่วน `train.py` ใช้ภาพทั้งหมดที่โหลดได้โดยไม่ได้แบ่งข้อมูล validation จึงไม่ควรใช้ผลจากสคริปต์แทนการประเมินใน Notebook
 
-## Current limitations
+## ข้อจำกัดปัจจุบัน
 
-- There are 30 university folders with four training images each. This is a small coursework dataset.
-- All 28 example images in `Image/` also occur in `Logo/`. Predictions on these images do not measure performance on unseen images.
-- Class numbers are assigned from folder iteration order, but the saved names are built from CSV order. These orders can differ. Fix this mapping before trusting predicted university names or retraining for evaluation.
-- Four folder names differ from their CSV names because of punctuation or spelling. These names need to be made consistent.
-- The notebook uses a validation split, but there is no independent held-out test set or verified unseen-image accuracy.
-- The model always chooses one of the known classes. It does not reliably reject an unrelated image.
+- มี 30 โฟลเดอร์มหาวิทยาลัย โฟลเดอร์ละ 4 ภาพ เป็นชุดข้อมูลขนาดเล็กสำหรับงานในรายวิชา
+- ภาพตัวอย่างทั้ง 28 ภาพใน `Image/` มีอยู่ใน `Logo/` ด้วย ผลทำนายภาพเหล่านี้จึงไม่ได้บอกความแม่นยำกับภาพใหม่
+- หมายเลขคลาสถูกกำหนดตามลำดับที่อ่านโฟลเดอร์ แต่ชื่อที่บันทึกอ้างอิงลำดับใน CSV ซึ่งอาจไม่ตรงกัน ต้องแก้การจับคู่นี้ก่อนเชื่อถือชื่อที่ทำนายหรือฝึกใหม่เพื่อประเมินผล
+- ชื่อโฟลเดอร์ 4 แห่งไม่ตรงกับ CSV เนื่องจากเครื่องหมายหรือการสะกด ต้องปรับให้ตรงกัน
+- Notebook แบ่งข้อมูลบางส่วนเป็น validation แต่ยังไม่มีชุดทดสอบอิสระหรือผลความแม่นยำกับภาพใหม่ที่ตรวจสอบแล้ว
+- โมเดลเลือกหนึ่งคลาสจากมหาวิทยาลัยที่รู้จักเสมอ จึงยังปฏิเสธภาพที่ไม่เกี่ยวข้องได้ไม่แน่นอน
 
-Existing notebook outputs are saved examples, not a new verification run. Logo rights belong to their respective owners. This project does not imply endorsement by any university; verify image sources and redistribution permissions before sharing datasets.
+ผลลัพธ์ที่บันทึกใน Notebook เป็นตัวอย่างจากการรันก่อนหน้า ไม่ใช่ผลตรวจสอบรอบใหม่ สิทธิ์ในโลโก้เป็นของเจ้าของแต่ละแห่ง โปรเจกต์นี้ไม่ได้หมายถึงการรับรองจากมหาวิทยาลัยใด ตรวจสอบแหล่งที่มาและสิทธิ์เผยแพร่ภาพก่อนแบ่งปันชุดข้อมูล
 
-## Next steps
+## สิ่งที่ควรพัฒนาต่อ
 
-Fix the label mapping and university names, prepare non-overlapping training and evaluation data, and report results on new images. A web upload demo can follow after those checks.
+แก้การจับคู่ label และชื่อมหาวิทยาลัย แยกภาพฝึกกับภาพประเมินไม่ให้ซ้ำกัน แล้วรายงานผลบนภาพใหม่ หลังจากตรวจส่วนเหล่านี้แล้วจึงค่อยเพิ่มหน้าเว็บสำหรับอัปโหลดภาพ
