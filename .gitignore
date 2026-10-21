@@ -1,0 +1,11 @@
+# Local trained model (larger than GitHub's regular file limit)
+/model.h5
+
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
