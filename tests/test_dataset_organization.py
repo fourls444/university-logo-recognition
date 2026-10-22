@@ -4,9 +4,14 @@ import json
 from pathlib import Path
 
 from PIL import Image
+import pytest
 
 
 ROOT = Path(__file__).resolve().parents[1]
+pytestmark = pytest.mark.skipif(
+    not (ROOT / 'data/provenance/dataset-path-mapping.json').is_file(),
+    reason='Private dataset is not distributed with the repository',
+)
 
 
 def test_organization_preserves_original_manifest_and_images():

@@ -10,9 +10,11 @@ __pycache__/
 .venv/
 venv/
 
-# Local training artifacts and user corrections
+# Local models, experiments, backups and user corrections
 /artifacts/
 /feedback/
+# Collected artwork, documents, derived images and local provenance
+/data/
 /.streamlit/secrets.toml
 /.pytest_cache/
 /.superpowers/

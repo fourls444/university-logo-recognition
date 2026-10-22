@@ -9,6 +9,8 @@ from dataset import prepare_dataset, load_images
 class DatasetTests(unittest.TestCase):
     def test_real_manifest_coverage(self):
         root = Path(__file__).resolve().parents[1]
+        if not (root / 'data/logos').is_dir():
+            self.skipTest('Private dataset is not distributed with the repository')
         train, validation, names = prepare_dataset(root)
         self.assertEqual(len(names), 30)
         self.assertEqual({y for _, y in train}, set(range(30)))

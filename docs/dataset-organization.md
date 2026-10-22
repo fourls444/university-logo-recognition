@@ -1,5 +1,17 @@
 # Dataset organization
 
+The complete `data/` directory is local-only and excluded from Git, including
+collected artwork, PDFs, derived images and source records. Removing it from
+the Git index preserves the files on disk. The root manifest remains tracked
+as the inventory, but does not contain the image bytes. Existing commits may
+still contain these files; ignoring them does not erase Git history.
+
+A fresh clone needs a separately supplied private dataset for training, or
+a private model bundle and `artifacts/current.json` for inference. The complete
+`artifacts/` directory remains ignored. The project is demonstrated locally
+for a portfolio. Dataset integration tests skip when the private data is
+absent; synthetic-image tests still run.
+
 On 2026-10-22, 120 legacy logo files moved from `Logo/` into
 `data/logos/<university-slug>/`. Neutral names such as
 `bangkok-university-legacy-01.png` identify the university and variant without
