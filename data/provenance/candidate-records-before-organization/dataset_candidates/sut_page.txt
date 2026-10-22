@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>SUT Branding 2024</title>
+<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen" />
+    	
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="header">
+    	<div class="inner container_12 clearfix"><!-- end logo -->
+            
+           
+        </div><!-- end header inner -->
+    </div><!-- end header -->
+	
+	 <div id="nav" class="container_12 clearfix">
+            	<ul>
+					<li><a href="../branding/">Home</a></li>
+                    	
+					<li><a href="../branding/p2.html">à¸à¸£à¸²à¸ªà¸±à¸à¸¥à¸±à¸à¸©à¸à¹</a></li>
+				  <li><a href="../branding/p3.html">à¹à¸¥à¹à¸à¹à¸à¸±à¸§à¸­à¸±à¸à¸©à¸£</a></li>
+                    
+				  <li><strong>à¸¥à¸²à¸¢à¸à¸£à¸²à¸à¸´à¸</strong></li>
+                    <li><a href="../branding/p5.html">à¸ªà¸µà¸­à¸±à¸à¸¥à¸±à¸à¸©à¸à¹</a></li>
+                  <li><a href="../branding/p6.html">à¸à¸¸à¸à¸à¸±à¸§à¸­à¸±à¸à¸©à¸£</a></li>
+                   <li><a href="../branding/p7.html">à¸à¸²à¸§à¸à¹à¹à¸«à¸¥à¸</a></li> </ul>
+</div><!-- end nav -->
+    
+    
+   
+    
+    <div >
+    	<div class="inner container_12 clearfix">
+    	  
+  <table width="900" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="10" valign="top"><p>&nbsp;</p></td>
+              <td width="890" valign="top"><p align="center">&nbsp;</p>
+                <p align="center"><img src="images/p4-1.jpg" width="649" height="647" /></p>
+                <p align="center"><img src="images/p4-2.jpg" width="561" height="616" /></p>
+                <p align="center"><img src="images/p6-1.jpg" width="380" usemap="#Map" border="0" /></p>
+              <p align="center">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td width="10" valign="top"><p>&nbsp;</p></td>
+              <td width="890" valign="top">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="10" valign="top"><p>&nbsp;</p></td>
+              <td width="890" valign="top">&nbsp;</td>
+            </tr>
+          </table></div><!-- end content inner -->
+    </div><!-- end content -->
+    
+   <div id="footer">
+    	<div class="inner container_12 clearfix">
+        
+         <p>Copyright  2024. <!-- Please Do not remove -->à¸ªà¹à¸§à¸à¸à¸£à¸°à¸à¸²à¸ªà¸±à¸¡à¸à¸±à¸à¸à¹ à¸¡à¸«à¸²à¸§à¸´à¸à¸¢à¸²à¸¥à¸±à¸¢à¹à¸à¸à¹à¸à¹à¸¥à¸¢à¸µà¸ªà¸¸à¸£à¸à¸²à¸£à¸µ </p>
+        <?php include("silentlog/silentlog.php?id=home"); ?>
+        </div><!-- end footer inner -->
+    </div><!-- end footer -->
+
+</div><!-- end wrapper -->
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="94,26,283,103" href="https://drive.google.com/drive/folders/1lfR-8PoIWbDbpmORC4bFDxgyvcdqfmiZ?usp=drive_link" />
+</map>
+</body>
+</html>

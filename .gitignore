@@ -9,3 +9,15 @@ __pycache__/
 # Local environments
 .venv/
 venv/
+
+# Local training artifacts and user corrections
+/artifacts/
+/feedback/
+/.streamlit/secrets.toml
+/.pytest_cache/
+/.superpowers/
+/docs/superpowers/
+
+# Personal Thai study guide (local reading only)
+/PRIVATE_GUIDE_TH.md
+/PRIVATE_CONTRIBUTIONS_TH.md

@@ -1,0 +1,20 @@
+[
+  {
+    "university": "Mahidol University",
+    "page": "https://commons.wikimedia.org/wiki/File:Mahidol_U.svg",
+    "status": 403,
+    "images": []
+  },
+  {
+    "university": "Srinakharinwirot University",
+    "page": "https://commons.wikimedia.org/wiki/File:Logo_of_Srinakharinwirot_University.svg",
+    "status": 403,
+    "images": []
+  },
+  {
+    "university": "Rajamangala University of Technology Thanyaburi",
+    "page": "https://commons.wikimedia.org/wiki/File:-logoRMUTT-color_Eng.png",
+    "status": 403,
+    "images": []
+  }
+]

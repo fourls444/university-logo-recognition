@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-22",
+  "scope": "30 exact university labels from university_info.csv; independent licensed photos/scans prioritized",
+  "training_additions": 0,
+  "downloaded_training_images": 0,
+  "metadata_rows_collected": 15,
+  "metadata_rows_exact_label_overlap": 13,
+  "metadata_rows_with_explicit_label_correction": 1,
+  "images": [],
+  "datasets": [
+    {
+      "name": "President University / University Logo Detection",
+      "url": "https://universe.roboflow.com/president-university-v5dyb/university-logo-detection",
+      "images_reported": 186,
+      "license": "CC BY 4.0",
+      "labels": [
+        "institut_pertanian_bogor",
+        "institut_teknologi_bandung",
+        "president_university",
+        "universitas_airlangga",
+        "universitas_binus",
+        "universitas_brawijaya",
+        "universitas_gadjah_mada",
+        "universitas_indonesia",
+        "universitas_padjadjaran"
+      ],
+      "class_overlap": 0,
+      "decision": "Do not append. Indonesian classes; only potential separate pretraining research."
+    },
+    {
+      "name": "QMUL-OpenLogo",
+      "url": "https://qmul-openlogo.github.io/",
+      "mirror_card": "https://huggingface.co/datasets/Voxel51/OpenLogo",
+      "images_reported": 27083,
+      "classes_reported": 352,
+      "license_evidence": "Mirror card explicitly says More Information Needed; aggregated from seven datasets.",
+      "decision": "Do not download or train: no established Thai label compatibility or complete image rights."
+    },
+    {
+      "name": "World Universities Data",
+      "url": "https://github.com/Asjad-Ilahi/World-Universities-Data",
+      "license": "MIT (metadata repository)",
+      "decision": "Collected 15 Thai metadata rows and source license/README only. Repository describes image_url as logo/campus; external artwork rights must be checked separately. No image authorized for training."
+    },
+    {
+      "name": "Wikimedia Commons SWU emblem",
+      "url": "https://commons.wikimedia.org/wiki/File:Emblem_of_Srinakharinwirot_University.png",
+      "author": "Warut92",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Emblem_of_Srinakharinwirot_University.png",
+      "decision": "Source metadata establishes label/license, but direct original GET returned HTTP 403; stopped. No image, visual verification, or overlap score available."
+    }
+  ],
+  "searches": [
+    "Thai university logo dataset",
+    "university logos dataset Thailand",
+    "site:kaggle.com/datasets university logo Thailand",
+    "site:huggingface.co/datasets university logo",
+    "site:github.com Thai university logo dataset",
+    "site:universe.roboflow.com university Thailand",
+    "site:universe.roboflow.com มหาวิทยาลัย"
+  ],
+  "limits": "Bounded public search did not identify a downloadable license-verified image collection compatible with these labels. This is not proof that none exists. No authentication, signup, payment, access-control bypass, private feedback upload, active manifest/model/app changes."
+}

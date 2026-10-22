@@ -1,6 +1,6 @@
 numpy
 pandas
-matplotlib
-Pillow
+Pillow>=10
 tensorflow
-ipykernel
+streamlit>=1.66,<2
+pypdfium2>=4.30

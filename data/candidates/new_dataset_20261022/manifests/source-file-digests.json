@@ -1,0 +1,27 @@
+[
+  {
+    "file": "data/candidates/new_dataset_20261022/sources/download-attempts.json",
+    "sha256": "812040d091b1e86e7536b739edcb4780f48d82eeaa9fc36d26abd556475d9f0a",
+    "bytes": 161
+  },
+  {
+    "file": "data/candidates/new_dataset_20261022/sources/world-universities-data-source-metadata.json",
+    "sha256": "731e17aefbf4db41efe0fde5645d65db5975ef82d8f5520ad2412bf482a07261",
+    "bytes": 156
+  },
+  {
+    "file": "data/candidates/new_dataset_20261022/sources/world-universities-LICENSE",
+    "sha256": "e5d83aa663724e8ec437e6964c81c28ea2edd4987ab7fc41225e29da2eccb620",
+    "bytes": 1068
+  },
+  {
+    "file": "data/candidates/new_dataset_20261022/sources/world-universities-README.md",
+    "sha256": "c5d4cd6ac645d1b8288d48783c69dec45f50eb412feb8347587f76c5902c7ee0",
+    "bytes": 11027
+  },
+  {
+    "file": "data/candidates/new_dataset_20261022/sources/world-universities-thailand-metadata.json",
+    "sha256": "1bb8c658bf61515dea429fc689efa6a6658c93252ed95556fbc2301834462bc8",
+    "bytes": 25851
+  }
+]

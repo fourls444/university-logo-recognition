@@ -1,0 +1,212 @@
+[
+  {
+    "university": "Kasetsart University",
+    "page": "https://www.ku.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Bangkok University",
+    "page": "https://www.bu.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Dhurakij Pundit University",
+    "page": "https://www.dpu.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Chiang Mai University",
+    "page": "https://www.cmu.ac.th",
+    "downloaded": 2,
+    "errors": []
+  },
+  {
+    "university": "Burapha University",
+    "page": "https://www.buu.ac.th/en/university-identity/",
+    "downloaded": 2,
+    "errors": []
+  },
+  {
+    "university": "King Mongkut's University of Technology Thonburi",
+    "page": "https://www.kmutt.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Chulalongkorn University",
+    "page": "https://www.chula.ac.th/about/symbols/identity/",
+    "downloaded": 2,
+    "errors": []
+  },
+  {
+    "university": "King Mongkut's University of Technology North Bangkok",
+    "page": "https://www.kmutnb.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "Khon Kaen University",
+    "page": "https://www.kku.ac.th",
+    "downloaded": 3,
+    "errors": []
+  },
+  {
+    "university": "Mahidol University",
+    "page": "https://www.mahidol.ac.th",
+    "downloaded": 0,
+    "errors": [
+      "403 Client Error: Forbidden for url: https://www.mahidol.ac.th/"
+    ]
+  },
+  {
+    "university": "King Mongkut's Institute of Technology Ladkrabang",
+    "page": "https://www.kmitl.ac.th",
+    "downloaded": 2,
+    "errors": []
+  },
+  {
+    "university": "Mae Fah Luang University",
+    "page": "https://www.mfu.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Mahasarakham University",
+    "page": "https://www.msu.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "Naresuan University",
+    "page": "https://www.nu.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "Ramkhamhaeng University",
+    "page": "https://www.ru.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Rajamangala University of Technology Thanyaburi",
+    "page": "https://www.rmutt.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Saint Louis College",
+    "page": "https://www.slc.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Panyapiwat Institute of Management",
+    "page": "https://www.pim.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "Silpakorn University",
+    "page": "https://www.su.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Rangsit University",
+    "page": "https://www.rsu.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "Srinakharinwirot University",
+    "page": "https://www.swu.ac.th",
+    "downloaded": 0,
+    "errors": [
+      "403 Client Error: Forbidden for url: https://www.swu.ac.th/"
+    ]
+  },
+  {
+    "university": "Suan Dusit University",
+    "page": "https://www.dusit.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Suranaree University of Technology",
+    "page": "https://www.sut.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Thaksin University",
+    "page": "https://www.tsu.ac.th",
+    "downloaded": 2,
+    "errors": []
+  },
+  {
+    "university": "Sripatum University",
+    "page": "https://www.spu.ac.th",
+    "downloaded": 3,
+    "errors": []
+  },
+  {
+    "university": "University of Phayao",
+    "page": "https://www.up.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Thammasat University",
+    "page": "https://www.tu.ac.th",
+    "downloaded": 1,
+    "errors": []
+  },
+  {
+    "university": "University of the Thai Chamber of Commerce",
+    "page": "https://www.utcc.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Maejo University",
+    "page": "https://www.mju.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Suan Sunandha Rajabhat University",
+    "page": "https://www.ssru.ac.th",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Kasetsart University",
+    "page": "https://www.ku.ac.th/th/kulogo?category=63",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "King Mongkut's University of Technology Thonburi",
+    "page": "https://www.kmutt.ac.th/en/corporate_identity/kmutt-identity/",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Rajamangala University of Technology Thanyaburi",
+    "page": "https://www.rmutt.ac.th/download/",
+    "downloaded": 0,
+    "errors": []
+  },
+  {
+    "university": "Mahidol University",
+    "page": "https://mahidol.ac.th/th/",
+    "downloaded": 0,
+    "errors": [
+      "403 Client Error: Forbidden for url: https://mahidol.ac.th/th/"
+    ]
+  }
+]

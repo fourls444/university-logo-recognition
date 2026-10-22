@@ -1,0 +1,3100 @@
+{
+  "schema_version": 1,
+  "snapshot_sha256": "48c7d2b0198fccd65bd252c2804c6e5c3a7f217a7397f861885f7dcc8fc11b81",
+  "baseline": {
+    "train": 126,
+    "validation": 31,
+    "classes": 30,
+    "manifest_images": 157
+  },
+  "moves": [
+    {
+      "old": "Logo/Bangkok University/023.png",
+      "new": "data/logos/bangkok-university/bangkok-university-legacy-01.png",
+      "university": "Bangkok University",
+      "sha256": "8d6337ae363179145f37f7d2d5d9282b175658f0fbce45e88da0c5b1c5afe135",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Bangkok University/image (22).png",
+      "new": "data/logos/bangkok-university/bangkok-university-legacy-02.png",
+      "university": "Bangkok University",
+      "sha256": "1bce5e363023fa5002f3cf54482d9ecd609f0b6189d8dc68b3bdbdc6d10e1bce",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Bangkok University/image23.png",
+      "new": "data/logos/bangkok-university/bangkok-university-legacy-03.png",
+      "university": "Bangkok University",
+      "sha256": "515fe00561ace58ced8caa2a3db9b36fc8802788a2e3ab97d42a0f7ae64a07e1",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Bangkok University/test23.png",
+      "new": "data/logos/bangkok-university/bangkok-university-legacy-04.png",
+      "university": "Bangkok University",
+      "sha256": "515fe00561ace58ced8caa2a3db9b36fc8802788a2e3ab97d42a0f7ae64a07e1",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Burapha University/011.png",
+      "new": "data/logos/burapha-university/burapha-university-legacy-01.png",
+      "university": "Burapha University",
+      "sha256": "129ce7bbcdf2fb909a7942af54b884655eadad5e00d0c4807d4d9bf01985ba92",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Burapha University/image (10).png",
+      "new": "data/logos/burapha-university/burapha-university-legacy-02.png",
+      "university": "Burapha University",
+      "sha256": "6babece74013fcdc581904f19c46524e15e042bb21ac7bf7b0966ee35a818303",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Burapha University/image11.png",
+      "new": "data/logos/burapha-university/burapha-university-legacy-03.png",
+      "university": "Burapha University",
+      "sha256": "f922cf1a3aed5150471c0f1d74dc5e15ad45fb1a8bfe532727b5eb0271df7971",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Burapha University/test11.png",
+      "new": "data/logos/burapha-university/burapha-university-legacy-04.png",
+      "university": "Burapha University",
+      "sha256": "09aa83646a88b6a79305a28ebb245e242d1cb571f1c6f957823e8406877ccecd",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chiang Mai University/004.png",
+      "new": "data/logos/chiang-mai-university/chiang-mai-university-legacy-01.png",
+      "university": "Chiang Mai University",
+      "sha256": "22d0290aef78965fb346241d4d21d55aae912922528eda80c528a68695b45deb",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chiang Mai University/image (3).png",
+      "new": "data/logos/chiang-mai-university/chiang-mai-university-legacy-02.png",
+      "university": "Chiang Mai University",
+      "sha256": "9f498016f52b5dd4bfc7cbb45f06183109e3a23f360132035a969cb76fc06f85",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chiang Mai University/image04.png",
+      "new": "data/logos/chiang-mai-university/chiang-mai-university-legacy-03.png",
+      "university": "Chiang Mai University",
+      "sha256": "40e4f56a197660c8f7df7e24aa6a7547e2b3418de8f1b80a287e424e1dfe6947",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chiang Mai University/test4.png",
+      "new": "data/logos/chiang-mai-university/chiang-mai-university-legacy-04.png",
+      "university": "Chiang Mai University",
+      "sha256": "79bb0aa2521e2ba782e60a500900b05368746c010b7066e8e0157d2ec27d2fc7",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chulalongkorn University/001.png",
+      "new": "data/logos/chulalongkorn-university/chulalongkorn-university-legacy-01.png",
+      "university": "Chulalongkorn University",
+      "sha256": "37644ded630a7ca8f3a96a3f4bf91cb3259e9aceb5f431a3f0c2ac1f9fdf37bc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chulalongkorn University/image (0).png",
+      "new": "data/logos/chulalongkorn-university/chulalongkorn-university-legacy-02.png",
+      "university": "Chulalongkorn University",
+      "sha256": "e2738dc04337afad2c5627035293d843e7f59521bc8ca2778d489ad6f76e2357",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chulalongkorn University/image01.png",
+      "new": "data/logos/chulalongkorn-university/chulalongkorn-university-legacy-03.png",
+      "university": "Chulalongkorn University",
+      "sha256": "1028b12123712e661c142f1b33cccfb3fe9b7348180009a446f79a04144e0244",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Chulalongkorn University/test1.png",
+      "new": "data/logos/chulalongkorn-university/chulalongkorn-university-legacy-04.png",
+      "university": "Chulalongkorn University",
+      "sha256": "12bef3742c63571085cf7e295f29cd6ae6c0497ab3bdaf16bc7d12f03c3c51da",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Dhurakij Pundit University/026.png",
+      "new": "data/logos/dhurakij-pundit-university/dhurakij-pundit-university-legacy-01.png",
+      "university": "Dhurakij Pundit University",
+      "sha256": "7b83fdaadc13329e6e80070b85320c7e2e68a44ca07310cfdb4f0f28fa54fbde",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Dhurakij Pundit University/image (25).png",
+      "new": "data/logos/dhurakij-pundit-university/dhurakij-pundit-university-legacy-02.png",
+      "university": "Dhurakij Pundit University",
+      "sha256": "f7ebd34fa117764e61928ec3c7598c65e4c31ecc1e70072e30ab264293059ae3",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Dhurakij Pundit University/image26.png",
+      "new": "data/logos/dhurakij-pundit-university/dhurakij-pundit-university-legacy-03.png",
+      "university": "Dhurakij Pundit University",
+      "sha256": "b74e6f6f2fd4fc2e3a3fd9ff8679f5455e5f6d60a3eaee5987af502c82710e58",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Dhurakij Pundit University/test26.png",
+      "new": "data/logos/dhurakij-pundit-university/dhurakij-pundit-university-legacy-04.png",
+      "university": "Dhurakij Pundit University",
+      "sha256": "0b903c164103d523a553d8ce6a18f3fcd5554413b53df3b179e095e0e60b863e",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Kasetsart University/002.png",
+      "new": "data/logos/kasetsart-university/kasetsart-university-legacy-01.png",
+      "university": "Kasetsart University",
+      "sha256": "acacf77f6842da99cead1951f9e36f4db16ab2430ced8136c5b4e800abfda88a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Kasetsart University/image (1).png",
+      "new": "data/logos/kasetsart-university/kasetsart-university-legacy-02.png",
+      "university": "Kasetsart University",
+      "sha256": "9a64bf8e091975ed8d392314664126d8c7c81e551b732e2f2ac8664ff648eb41",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Kasetsart University/image02.png",
+      "new": "data/logos/kasetsart-university/kasetsart-university-legacy-03.png",
+      "university": "Kasetsart University",
+      "sha256": "acc33d39009498b8ccfac5a45cd30dbe559a06c57b914b811f427d274e5572b7",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Kasetsart University/test2.png",
+      "new": "data/logos/kasetsart-university/kasetsart-university-legacy-04.png",
+      "university": "Kasetsart University",
+      "sha256": "7a2731ebcd34e1ff4e9a404a9858ecfd07cbd63bc5706137852a04692a05e98b",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Khon Kaen University/003.png",
+      "new": "data/logos/khon-kaen-university/khon-kaen-university-legacy-01.png",
+      "university": "Khon Kaen University",
+      "sha256": "494e35a51a22940ee94013a5039f25b93524d4f87b0682cf9e5a925dd84d9b16",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Khon Kaen University/image (2).png",
+      "new": "data/logos/khon-kaen-university/khon-kaen-university-legacy-02.png",
+      "university": "Khon Kaen University",
+      "sha256": "dcf7f171c7f91d3e617ef36cfc92deda2c1308a059bc890c2c576b05d8f35071",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Khon Kaen University/image03.png",
+      "new": "data/logos/khon-kaen-university/khon-kaen-university-legacy-03.png",
+      "university": "Khon Kaen University",
+      "sha256": "2a95aee5436eeccdc4f8061eb2d1fdc90f6963c09dfcfe51eae2af5bb5bfbb81",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Khon Kaen University/test3.png",
+      "new": "data/logos/khon-kaen-university/khon-kaen-university-legacy-04.png",
+      "university": "Khon Kaen University",
+      "sha256": "374f50b39607c68bee81bc9a2e8602be7a84fca7a448f1e0014c0783418e1c24",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s Institute of Technology Ladkrabang/030.png",
+      "new": "data/logos/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-legacy-01.png",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "sha256": "d02ac3a237e2b59d1179c50efb86568f53bce41d9cae98c3bd9257a72118be0c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s Institute of Technology Ladkrabang/image (29).png",
+      "new": "data/logos/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-legacy-02.png",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "sha256": "8cc126ce178889e6675b48ec8693cf0cd105281cafa5b2200875bba9d34c0c4f",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s Institute of Technology Ladkrabang/image30.png",
+      "new": "data/logos/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-legacy-03.png",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "sha256": "da29dd1d193683a74a006059b54ddc14df50ba4bf919428584aa11156bfe666a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s Institute of Technology Ladkrabang/test30.png",
+      "new": "data/logos/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-legacy-04.png",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "sha256": "ef2f437fda77fda9847cbca52772ba5e86dd62de2b310d6031cf7892e979d925",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology North Bangkok/006.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-legacy-01.png",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "sha256": "28e133c4006073638b4397a55d05d37a50b64ab86bf5e40ddb72d59a17d5c9fd",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology North Bangkok/image (5).png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-legacy-02.png",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "sha256": "5a70be83c27323780e74673d6c3a17528810643eb2054eaefb3702e1458a44ac",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology North Bangkok/image06.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-legacy-03.png",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "sha256": "577fb6eae1eb8f0f340e8b30a7255b095082988eeed8e093946880971fe17ae0",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology North Bangkok/test6.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-legacy-04.png",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "sha256": "f503c12f03e513d17c487f624040eca720b2c99d00fff8b5acbb9738eb253133",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology Thonburi/005.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-legacy-01.png",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "sha256": "4e670370e1b2b0041ea334f3409b33cb8fd39aeb879455a4f1256ce9de6b6e03",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology Thonburi/image (4).png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-legacy-02.png",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "sha256": "a0f198d86208a534a5fd5204dfae6412b4122c95f1aee6a3fbd49e89fcc3b130",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology Thonburi/image05.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-legacy-03.png",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "sha256": "fa982ed0a6b457713fef3a9805aa0595d63330fa77456e8b65cac673d96a83bd",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/King Mongkut’s University of Technology Thonburi/test5.png",
+      "new": "data/logos/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-legacy-04.png",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "sha256": "e86eee030bbe854ae9af0ded6d00ef83b0033867af057cc418e34778030025b0",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mae Fah Luang University/016.png",
+      "new": "data/logos/mae-fah-luang-university/mae-fah-luang-university-legacy-01.png",
+      "university": "Mae Fah Luang University",
+      "sha256": "89f160b55fe7d944eb50f9347cda9e8328ac33a20719f8889a9972e15611038e",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mae Fah Luang University/image (15).png",
+      "new": "data/logos/mae-fah-luang-university/mae-fah-luang-university-legacy-02.png",
+      "university": "Mae Fah Luang University",
+      "sha256": "284c4e741c76427f31e97be4d3e704a1e0d08aad9e33f2b6f950a8f9faa10809",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mae Fah Luang University/image16.png",
+      "new": "data/logos/mae-fah-luang-university/mae-fah-luang-university-legacy-03.png",
+      "university": "Mae Fah Luang University",
+      "sha256": "b2ad3e018acbedb96709bed729dd1260d50e2ddd40d9cf4effec47731ed5cfbc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mae Fah Luang University/test16.png",
+      "new": "data/logos/mae-fah-luang-university/mae-fah-luang-university-legacy-04.png",
+      "university": "Mae Fah Luang University",
+      "sha256": "f8a5cc4131e123e6062d6a29c108efa22f51fb3812f78d4fbe08be7c12016e9a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Maejo University/015.png",
+      "new": "data/logos/maejo-university/maejo-university-legacy-01.png",
+      "university": "Maejo University",
+      "sha256": "e1a5bab97ccc6fad552ef5c8133ffe48fea78b5dc1d8ee814eb3d4c828c128c4",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Maejo University/image (14).png",
+      "new": "data/logos/maejo-university/maejo-university-legacy-02.png",
+      "university": "Maejo University",
+      "sha256": "5e4d2448e14a9c07ac8ac4ead1e92d5a4e887aeb7c31e7695f3d34e8f883737d",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Maejo University/image15.png",
+      "new": "data/logos/maejo-university/maejo-university-legacy-03.png",
+      "university": "Maejo University",
+      "sha256": "d5f3d530d0db6e9dbace07ec393bfba5ef84409ac53cfdd3b7651e231ae855fb",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Maejo University/test15.png",
+      "new": "data/logos/maejo-university/maejo-university-legacy-04.png",
+      "university": "Maejo University",
+      "sha256": "84600ee34c2056d452482a526e2cf20c70a41a050286b5a935dd2dbac29c2a9f",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahasarakham University/014.png",
+      "new": "data/logos/mahasarakham-university/mahasarakham-university-legacy-01.png",
+      "university": "Mahasarakham University",
+      "sha256": "e839c542af6636abff2a8e865c9e713ab2d4f9eeacad6466fdc16cafd484183f",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahasarakham University/image (13).png",
+      "new": "data/logos/mahasarakham-university/mahasarakham-university-legacy-02.png",
+      "university": "Mahasarakham University",
+      "sha256": "81cfe37c3b63294fc96727927954f72466fc92cb8994ca09c7eacfc2df41e36d",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahasarakham University/image14.png",
+      "new": "data/logos/mahasarakham-university/mahasarakham-university-legacy-03.png",
+      "university": "Mahasarakham University",
+      "sha256": "48e1f1af614a0779d147727997829cec5bd75cccf5dc78ed9bbb910b7eaee1a7",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahasarakham University/test14.png",
+      "new": "data/logos/mahasarakham-university/mahasarakham-university-legacy-04.png",
+      "university": "Mahasarakham University",
+      "sha256": "adc2c0794ee4c789c6882dddf4944cac5a64955fa2ab00e998d1bea6be9fbb1a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahidol University/013.png",
+      "new": "data/logos/mahidol-university/mahidol-university-legacy-01.png",
+      "university": "Mahidol University",
+      "sha256": "5b8c6366196ce8be13b1484012829bfacf51b5fd3822fdc75599e9f7d3dc1d70",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahidol University/image (12).png",
+      "new": "data/logos/mahidol-university/mahidol-university-legacy-02.png",
+      "university": "Mahidol University",
+      "sha256": "09246a24b4aa4e193b247c720f7f74a48201441fadd1507b0a07ffd55cf89150",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahidol University/image13.png",
+      "new": "data/logos/mahidol-university/mahidol-university-legacy-03.png",
+      "university": "Mahidol University",
+      "sha256": "26f840af5b54c63fef07fbed20145b5bc1cb9c86784cb7c552a0e6ee1c00a74a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Mahidol University/test13.png",
+      "new": "data/logos/mahidol-university/mahidol-university-legacy-04.png",
+      "university": "Mahidol University",
+      "sha256": "3c0076a72301f2bb68034036b5654437968ee541855198873d5b6a2859ce6940",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Naresuan University/010.png",
+      "new": "data/logos/naresuan-university/naresuan-university-legacy-01.png",
+      "university": "Naresuan University",
+      "sha256": "496e01e395aa877b825d1ba7efaba657adf2915c32ef14f67ebe79c0190b6e4d",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Naresuan University/image (9).png",
+      "new": "data/logos/naresuan-university/naresuan-university-legacy-02.png",
+      "university": "Naresuan University",
+      "sha256": "06df5cef08f96d7b7faa8d394fc16a317e2e66d86c8bf41b480d881b64b4868c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Naresuan University/image10.png",
+      "new": "data/logos/naresuan-university/naresuan-university-legacy-03.png",
+      "university": "Naresuan University",
+      "sha256": "fa5b6150486519f297df4bac8b09729fbdb5a9c17cdb728aa9c4d8dd67e3fc6f",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Naresuan University/test10.png",
+      "new": "data/logos/naresuan-university/naresuan-university-legacy-04.png",
+      "university": "Naresuan University",
+      "sha256": "425a4c1f31f0dd4c8283695204405bac623cea2759835188aafb81967a065325",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Panyapiwat Institute of Management/022.png",
+      "new": "data/logos/panyapiwat-institute-of-management/panyapiwat-institute-of-management-legacy-01.png",
+      "university": "Panyapiwat Institute of Management",
+      "sha256": "4e4890e5b5360814b5f177dc35dc71d620c6948a5f41dcc577cd856fe2a77c4d",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Panyapiwat Institute of Management/image (21).png",
+      "new": "data/logos/panyapiwat-institute-of-management/panyapiwat-institute-of-management-legacy-02.png",
+      "university": "Panyapiwat Institute of Management",
+      "sha256": "e078e9d40fec345f6e6f15c2999bdfb0462871ba158e60fa4766406279b95e75",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Panyapiwat Institute of Management/image22.png",
+      "new": "data/logos/panyapiwat-institute-of-management/panyapiwat-institute-of-management-legacy-03.png",
+      "university": "Panyapiwat Institute of Management",
+      "sha256": "2dfa4325b1dae38b6f824f852239c492cb570d675eafdd8b7bad6b9b4f8278ec",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Panyapiwat Institute of Management/test22.png",
+      "new": "data/logos/panyapiwat-institute-of-management/panyapiwat-institute-of-management-legacy-04.png",
+      "university": "Panyapiwat Institute of Management",
+      "sha256": "a8b198c319108e4553579d7b6ee688bbd499cdef27263ce745b3cd1d6cde55c3",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rajamangala University of Technology Thanyaburi/027.png",
+      "new": "data/logos/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-legacy-01.png",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "sha256": "a4e55d16344c2fb0a2ff53e17c40c517293007a461202fdda169440dd783a252",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rajamangala University of Technology Thanyaburi/image (26).png",
+      "new": "data/logos/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-legacy-02.png",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "sha256": "89921400fab2ded16c36e0601dfaf048adb40b835ad5d5dcc87daceb3563ffdd",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rajamangala University of Technology Thanyaburi/image27.png",
+      "new": "data/logos/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-legacy-03.png",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "sha256": "ee0f2fa5398df1be09f770b7639dd26345d98600857b9b3209af9b0ffee83222",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rajamangala University of Technology Thanyaburi/test27.png",
+      "new": "data/logos/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-legacy-04.png",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "sha256": "5d036fceb82ab37c4a7e18ab0307f477abb27a60d03ffc110e6f5ce20f6430d2",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Ramkhamhaeng University/017.png",
+      "new": "data/logos/ramkhamhaeng-university/ramkhamhaeng-university-legacy-01.png",
+      "university": "Ramkhamhaeng University",
+      "sha256": "d69c47901969a03846bddd65ad460696e36dc6a931201a6ed163d7ad608056a4",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Ramkhamhaeng University/image (16).png",
+      "new": "data/logos/ramkhamhaeng-university/ramkhamhaeng-university-legacy-02.png",
+      "university": "Ramkhamhaeng University",
+      "sha256": "c05612779cb6de7a2e1a154d8368ef2653d3d865a872a6d0512ca8db2d42afef",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Ramkhamhaeng University/image17.png",
+      "new": "data/logos/ramkhamhaeng-university/ramkhamhaeng-university-legacy-03.png",
+      "university": "Ramkhamhaeng University",
+      "sha256": "cc8c8848a27e3f2f866013f1822fe6e815ff3b0c4ee4f06599ea2eec757a0603",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Ramkhamhaeng University/test17.png",
+      "new": "data/logos/ramkhamhaeng-university/ramkhamhaeng-university-legacy-04.png",
+      "university": "Ramkhamhaeng University",
+      "sha256": "42d804895e2176e4fd2ecfbb9e597ec11851db1a97cb7c963dec3230c88572ac",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rangsit University/025.png",
+      "new": "data/logos/rangsit-university/rangsit-university-legacy-01.png",
+      "university": "Rangsit University",
+      "sha256": "21628ddfdc7f5fdb6ff4c7a4869706e09cb20e52d72b21baaa45030f7c465847",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rangsit University/image (24).png",
+      "new": "data/logos/rangsit-university/rangsit-university-legacy-02.png",
+      "university": "Rangsit University",
+      "sha256": "394daf4df1ce239f0aee85a0926187d7f25a000336dbcc881f6bbe342dcd08fb",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rangsit University/image25.png",
+      "new": "data/logos/rangsit-university/rangsit-university-legacy-03.png",
+      "university": "Rangsit University",
+      "sha256": "fd7cd7a1f8f469ea61fdd5343605ff6bfdb66378540062fe8c3c56393a1defab",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Rangsit University/test25.png",
+      "new": "data/logos/rangsit-university/rangsit-university-legacy-04.png",
+      "university": "Rangsit University",
+      "sha256": "cff48d077aab8be9c478fdddf9d0a23a5b9adf298796ca365ec459be637731dc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Saint Louis College/021.png",
+      "new": "data/logos/saint-louis-college/saint-louis-college-legacy-01.png",
+      "university": "Saint Louis College",
+      "sha256": "0e2d58822fa8d3161da2ca237b0f8125693424e9473d020d398311207b6e1982",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Saint Louis College/image (20).png",
+      "new": "data/logos/saint-louis-college/saint-louis-college-legacy-02.png",
+      "university": "Saint Louis College",
+      "sha256": "b7961f426809d15cdcf9d4dd303f3767518205df053f5a9ec7fbac715bbd1df1",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Saint Louis College/image21.png",
+      "new": "data/logos/saint-louis-college/saint-louis-college-legacy-03.png",
+      "university": "Saint Louis College",
+      "sha256": "4fab93df489e96e53676d68e1e62856c860627c383249603244dec2ad19948ed",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Saint Louis College/test21.png",
+      "new": "data/logos/saint-louis-college/saint-louis-college-legacy-04.png",
+      "university": "Saint Louis College",
+      "sha256": "9eabb3a69fda5cf4ad4e4163a93bd9dc0d71ba72479a53d513b610dded25ea88",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Silpakorn University/019.png",
+      "new": "data/logos/silpakorn-university/silpakorn-university-legacy-01.png",
+      "university": "Silpakorn University",
+      "sha256": "f611dce0f03ad3d410cb96583bb612fe6810cd12ae3c9d32671c1b6ea9fc3068",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Silpakorn University/image (18).png",
+      "new": "data/logos/silpakorn-university/silpakorn-university-legacy-02.png",
+      "university": "Silpakorn University",
+      "sha256": "07cb4a411097d19d6f3b6f6f990976f0be3ec263f92d0650067cefdc6918e4cf",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Silpakorn University/image19.png",
+      "new": "data/logos/silpakorn-university/silpakorn-university-legacy-03.png",
+      "university": "Silpakorn University",
+      "sha256": "d4112f5c2ef91e4a8d09b85e8fe693a1dc06edc13126659d3142f633dc88e0ab",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Silpakorn University/test19.png",
+      "new": "data/logos/silpakorn-university/silpakorn-university-legacy-04.png",
+      "university": "Silpakorn University",
+      "sha256": "93d37b05e4c25d20475468853902ed430bcf5ee37758e8e4ca34d49ac728e935",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Srinakharinwirot University/018.png",
+      "new": "data/logos/srinakharinwirot-university/srinakharinwirot-university-legacy-01.png",
+      "university": "Srinakharinwirot University",
+      "sha256": "3d5944ae7bcc7fff603865f9435d82af4f89ee3597e5f950bbd079be4b0fd4e6",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Srinakharinwirot University/image (17).png",
+      "new": "data/logos/srinakharinwirot-university/srinakharinwirot-university-legacy-02.png",
+      "university": "Srinakharinwirot University",
+      "sha256": "d9e2b7cbe618889150b52310c17f6dd02134089254a02260442d31ce72cb69da",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Srinakharinwirot University/image18.png",
+      "new": "data/logos/srinakharinwirot-university/srinakharinwirot-university-legacy-03.png",
+      "university": "Srinakharinwirot University",
+      "sha256": "f4f82f05049b4e0271d5f25c651f3bc0c4071270ca59e5f8bcd65bdac7c1dd87",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Srinakharinwirot University/test18.png",
+      "new": "data/logos/srinakharinwirot-university/srinakharinwirot-university-legacy-04.png",
+      "university": "Srinakharinwirot University",
+      "sha256": "6f126b78bae6be8f9aaa3d7064330fba5771627fc43901ce34007206d8b3156c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Sripatum University/024.png",
+      "new": "data/logos/sripatum-university/sripatum-university-legacy-01.png",
+      "university": "Sripatum University",
+      "sha256": "8f23db1fc0afe8e352262def070b4e4580e99651015163913d72b6e988ddcccc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Sripatum University/image24.png",
+      "new": "data/logos/sripatum-university/sripatum-university-legacy-02.png",
+      "university": "Sripatum University",
+      "sha256": "8f23db1fc0afe8e352262def070b4e4580e99651015163913d72b6e988ddcccc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Sripatum University/test24.png",
+      "new": "data/logos/sripatum-university/sripatum-university-legacy-03.png",
+      "university": "Sripatum University",
+      "sha256": "8f23db1fc0afe8e352262def070b4e4580e99651015163913d72b6e988ddcccc",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Sripatum University/image (23).png",
+      "new": "data/logos/sripatum-university/sripatum-university-legacy-04.png",
+      "university": "Sripatum University",
+      "sha256": "48d39468c40967e9950f05e14a74fc4a71c2dc154f5d28eae53ebce7c7064802",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Dusit University/020.png",
+      "new": "data/logos/suan-dusit-university/suan-dusit-university-legacy-01.png",
+      "university": "Suan Dusit University",
+      "sha256": "0daae07458015e8909c217a8ec8b150a280c57a4095ebda11fd03321862b0759",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Dusit University/image (19).png",
+      "new": "data/logos/suan-dusit-university/suan-dusit-university-legacy-02.png",
+      "university": "Suan Dusit University",
+      "sha256": "85ad1ce456251263e6a6979c34101b1b33a1cd6459f5b937e8a915270c63c2ed",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Dusit University/image20.png",
+      "new": "data/logos/suan-dusit-university/suan-dusit-university-legacy-03.png",
+      "university": "Suan Dusit University",
+      "sha256": "24ce1914f6805a05dcb1a8668e3ef69750ecd900fbfdffe572fc5c02420c8629",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Dusit University/test20.png",
+      "new": "data/logos/suan-dusit-university/suan-dusit-university-legacy-04.png",
+      "university": "Suan Dusit University",
+      "sha256": "da13cbaedca0dee7c8038ccf736013cd8cc721537475537b97cc73209788843c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Sunandha Rajabhat University/028.png",
+      "new": "data/logos/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-legacy-01.png",
+      "university": "Suan Sunandha Rajabhat University",
+      "sha256": "edbb373c8528cfb503e30fb58a4cdb849650e5cc564b4ae8ba5c0c0ceaad8fe5",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Sunandha Rajabhat University/image (27).png",
+      "new": "data/logos/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-legacy-02.png",
+      "university": "Suan Sunandha Rajabhat University",
+      "sha256": "d51d14da5f98c1420694f97369f3c4a08be22134e3554f35975a2dc27e22f14c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Sunandha Rajabhat University/image28.png",
+      "new": "data/logos/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-legacy-03.png",
+      "university": "Suan Sunandha Rajabhat University",
+      "sha256": "854f1ec7ff208dd389ac4b978dbf273d007f599cfeb063b55b249d98cf559947",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suan Sunandha Rajabhat University/test28.png",
+      "new": "data/logos/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-legacy-04.png",
+      "university": "Suan Sunandha Rajabhat University",
+      "sha256": "bf2926fbdc363d470d5b258eede8aedb39f8ffb2ebc98349c0bc23da281ef7d8",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suranaree University of Technology/007.png",
+      "new": "data/logos/suranaree-university-of-technology/suranaree-university-of-technology-legacy-01.png",
+      "university": "Suranaree University of Technology",
+      "sha256": "a6674d1c4e4612cbf9dd7d514f7311a22758cb4bb815b0a726b4ab678d7b2ab3",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suranaree University of Technology/image (6).png",
+      "new": "data/logos/suranaree-university-of-technology/suranaree-university-of-technology-legacy-02.png",
+      "university": "Suranaree University of Technology",
+      "sha256": "88654cc8d41b19cb4cc231953b03a16b8fe7833512d722bf84eb7d1b6b1244f2",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suranaree University of Technology/image07.png",
+      "new": "data/logos/suranaree-university-of-technology/suranaree-university-of-technology-legacy-03.png",
+      "university": "Suranaree University of Technology",
+      "sha256": "db6513e8c4933a83a35b5bcfabaee61b156bbaef227f642ea818f7cbe59bd67a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Suranaree University of Technology/test7.png",
+      "new": "data/logos/suranaree-university-of-technology/suranaree-university-of-technology-legacy-04.png",
+      "university": "Suranaree University of Technology",
+      "sha256": "d04d74a3692047880e7b7fba2b016e6f1d9e5f91ca2f9e42f5c599ad25f5e55c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thaksin University/008.png",
+      "new": "data/logos/thaksin-university/thaksin-university-legacy-01.png",
+      "university": "Thaksin University",
+      "sha256": "8a6e4321227d4bdaa2c4b8b1a89f201360f4c5b56cad53d2023ba79dc091129e",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thaksin University/image (7).png",
+      "new": "data/logos/thaksin-university/thaksin-university-legacy-02.png",
+      "university": "Thaksin University",
+      "sha256": "4647fd630ba9052cdc61e3f40435cb566123f7475186fa59c56ff61ab3c69836",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thaksin University/image08.png",
+      "new": "data/logos/thaksin-university/thaksin-university-legacy-03.png",
+      "university": "Thaksin University",
+      "sha256": "1c407ab260c7807684f607bd3b538a48e18cd192905288791bca03ac64c9a6c6",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thaksin University/test8.png",
+      "new": "data/logos/thaksin-university/thaksin-university-legacy-04.png",
+      "university": "Thaksin University",
+      "sha256": "7009c8c43c19560443fc50d0e0513da5e2e6e99d99cc31af0cebbc93cb9e2549",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thammasat University/009.png",
+      "new": "data/logos/thammasat-university/thammasat-university-legacy-01.png",
+      "university": "Thammasat University",
+      "sha256": "c6f0351b429140c3733d8d1d2b6b30dbd818a393332ecc35dea5fa0065de64e7",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thammasat University/image (8).png",
+      "new": "data/logos/thammasat-university/thammasat-university-legacy-02.png",
+      "university": "Thammasat University",
+      "sha256": "8e93a04dc26dc65a37239a499ab5171c1122f32dc32d72fa17815e2c84504f8a",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thammasat University/image09.png",
+      "new": "data/logos/thammasat-university/thammasat-university-legacy-03.png",
+      "university": "Thammasat University",
+      "sha256": "a39b0fd1d709e29676df0b76b0f7beab47e08ca0944e57701d0104fb633bac13",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/Thammasat University/test9.png",
+      "new": "data/logos/thammasat-university/thammasat-university-legacy-04.png",
+      "university": "Thammasat University",
+      "sha256": "29a2da76b6c80e83858efb1dd7a7db0bfed1df6d831a938b5cda73180bdc1724",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of Phayao/012.png",
+      "new": "data/logos/university-of-phayao/university-of-phayao-legacy-01.png",
+      "university": "University of Phayao",
+      "sha256": "3b0b5dc612d9edb096a764d7d1033c405a7f71178ffb203fba98beeaef88f736",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of Phayao/image (11).png",
+      "new": "data/logos/university-of-phayao/university-of-phayao-legacy-02.png",
+      "university": "University of Phayao",
+      "sha256": "16e7b80912ce23e149ace1852308c085e9f2dba61dcf9d2e2d4de01415eb1623",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of Phayao/image12.png",
+      "new": "data/logos/university-of-phayao/university-of-phayao-legacy-03.png",
+      "university": "University of Phayao",
+      "sha256": "af15932bd77f5d5e92d0ed6ff4134c643ac9cfbde990472a3e6210dbe83af494",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of Phayao/test12.png",
+      "new": "data/logos/university-of-phayao/university-of-phayao-legacy-04.png",
+      "university": "University of Phayao",
+      "sha256": "218613680e8f45256ce99a34301734291d47f937e226def901632aeaa0224622",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of the Thai Chamber of Commerce/029.png",
+      "new": "data/logos/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-legacy-01.png",
+      "university": "University of the Thai Chamber of Commerce",
+      "sha256": "961281c8d0df851cab13c7ab6860da24b060f30e677c2e22170a87b2eaa12fa1",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of the Thai Chamber of Commerce/image (28).png",
+      "new": "data/logos/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-legacy-02.png",
+      "university": "University of the Thai Chamber of Commerce",
+      "sha256": "43f83c61c0f38ce4d2703461093d1f7395351984917463496e7ee9fecf7f20a0",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of the Thai Chamber of Commerce/image29.png",
+      "new": "data/logos/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-legacy-03.png",
+      "university": "University of the Thai Chamber of Commerce",
+      "sha256": "aab1d59f7c7535ff149ba5aeb935fbfa8173b5987acb21df1d0c81cb80b7cfb1",
+      "kind": "legacy"
+    },
+    {
+      "old": "Logo/University of the Thai Chamber of Commerce/test29.png",
+      "new": "data/logos/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-legacy-04.png",
+      "university": "University of the Thai Chamber of Commerce",
+      "sha256": "7164be80c484244f393d201ef1ec3d01d98f17c6156352c3cf89787a78e5189c",
+      "kind": "legacy"
+    },
+    {
+      "old": "Image/test1.png",
+      "new": "data/examples/chulalongkorn-university-example-01.png",
+      "university": "Chulalongkorn University",
+      "sha256": "12bef3742c63571085cf7e295f29cd6ae6c0497ab3bdaf16bc7d12f03c3c51da",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test10.png",
+      "new": "data/examples/naresuan-university-example-01.png",
+      "university": "Naresuan University",
+      "sha256": "425a4c1f31f0dd4c8283695204405bac623cea2759835188aafb81967a065325",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test11.png",
+      "new": "data/examples/burapha-university-example-01.png",
+      "university": "Burapha University",
+      "sha256": "09aa83646a88b6a79305a28ebb245e242d1cb571f1c6f957823e8406877ccecd",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test12.png",
+      "new": "data/examples/university-of-phayao-example-01.png",
+      "university": "University of Phayao",
+      "sha256": "218613680e8f45256ce99a34301734291d47f937e226def901632aeaa0224622",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test13.png",
+      "new": "data/examples/mahidol-university-example-01.png",
+      "university": "Mahidol University",
+      "sha256": "3c0076a72301f2bb68034036b5654437968ee541855198873d5b6a2859ce6940",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test14.png",
+      "new": "data/examples/mahasarakham-university-example-01.png",
+      "university": "Mahasarakham University",
+      "sha256": "adc2c0794ee4c789c6882dddf4944cac5a64955fa2ab00e998d1bea6be9fbb1a",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test15.png",
+      "new": "data/examples/maejo-university-example-01.png",
+      "university": "Maejo University",
+      "sha256": "84600ee34c2056d452482a526e2cf20c70a41a050286b5a935dd2dbac29c2a9f",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test16.png",
+      "new": "data/examples/mae-fah-luang-university-example-01.png",
+      "university": "Mae Fah Luang University",
+      "sha256": "f8a5cc4131e123e6062d6a29c108efa22f51fb3812f78d4fbe08be7c12016e9a",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test17.png",
+      "new": "data/examples/ramkhamhaeng-university-example-01.png",
+      "university": "Ramkhamhaeng University",
+      "sha256": "42d804895e2176e4fd2ecfbb9e597ec11851db1a97cb7c963dec3230c88572ac",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test18.png",
+      "new": "data/examples/srinakharinwirot-university-example-01.png",
+      "university": "Srinakharinwirot University",
+      "sha256": "6f126b78bae6be8f9aaa3d7064330fba5771627fc43901ce34007206d8b3156c",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test19.png",
+      "new": "data/examples/silpakorn-university-example-01.png",
+      "university": "Silpakorn University",
+      "sha256": "93d37b05e4c25d20475468853902ed430bcf5ee37758e8e4ca34d49ac728e935",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test2.png",
+      "new": "data/examples/kasetsart-university-example-01.png",
+      "university": "Kasetsart University",
+      "sha256": "7a2731ebcd34e1ff4e9a404a9858ecfd07cbd63bc5706137852a04692a05e98b",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test20.png",
+      "new": "data/examples/suan-dusit-university-example-01.png",
+      "university": "Suan Dusit University",
+      "sha256": "da13cbaedca0dee7c8038ccf736013cd8cc721537475537b97cc73209788843c",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test21.png",
+      "new": "data/examples/saint-louis-college-example-01.png",
+      "university": "Saint Louis College",
+      "sha256": "9eabb3a69fda5cf4ad4e4163a93bd9dc0d71ba72479a53d513b610dded25ea88",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test22.png",
+      "new": "data/examples/panyapiwat-institute-of-management-example-01.png",
+      "university": "Panyapiwat Institute of Management",
+      "sha256": "a8b198c319108e4553579d7b6ee688bbd499cdef27263ce745b3cd1d6cde55c3",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test25.png",
+      "new": "data/examples/rangsit-university-example-01.png",
+      "university": "Rangsit University",
+      "sha256": "cff48d077aab8be9c478fdddf9d0a23a5b9adf298796ca365ec459be637731dc",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test26.png",
+      "new": "data/examples/dhurakij-pundit-university-example-01.png",
+      "university": "Dhurakij Pundit University",
+      "sha256": "0b903c164103d523a553d8ce6a18f3fcd5554413b53df3b179e095e0e60b863e",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test27.png",
+      "new": "data/examples/rajamangala-university-of-technology-thanyaburi-example-01.png",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "sha256": "5d036fceb82ab37c4a7e18ab0307f477abb27a60d03ffc110e6f5ce20f6430d2",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test28.png",
+      "new": "data/examples/suan-sunandha-rajabhat-university-example-01.png",
+      "university": "Suan Sunandha Rajabhat University",
+      "sha256": "bf2926fbdc363d470d5b258eede8aedb39f8ffb2ebc98349c0bc23da281ef7d8",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test29.png",
+      "new": "data/examples/university-of-the-thai-chamber-of-commerce-example-01.png",
+      "university": "University of the Thai Chamber of Commerce",
+      "sha256": "7164be80c484244f393d201ef1ec3d01d98f17c6156352c3cf89787a78e5189c",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test3.png",
+      "new": "data/examples/khon-kaen-university-example-01.png",
+      "university": "Khon Kaen University",
+      "sha256": "374f50b39607c68bee81bc9a2e8602be7a84fca7a448f1e0014c0783418e1c24",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test30.png",
+      "new": "data/examples/king-mongkut-s-institute-of-technology-ladkrabang-example-01.png",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "sha256": "ef2f437fda77fda9847cbca52772ba5e86dd62de2b310d6031cf7892e979d925",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test4.png",
+      "new": "data/examples/chiang-mai-university-example-01.png",
+      "university": "Chiang Mai University",
+      "sha256": "79bb0aa2521e2ba782e60a500900b05368746c010b7066e8e0157d2ec27d2fc7",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test5.png",
+      "new": "data/examples/king-mongkut-s-university-of-technology-thonburi-example-01.png",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "sha256": "e86eee030bbe854ae9af0ded6d00ef83b0033867af057cc418e34778030025b0",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test6.png",
+      "new": "data/examples/king-mongkut-s-university-of-technology-north-bangkok-example-01.png",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "sha256": "f503c12f03e513d17c487f624040eca720b2c99d00fff8b5acbb9738eb253133",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test7.png",
+      "new": "data/examples/suranaree-university-of-technology-example-01.png",
+      "university": "Suranaree University of Technology",
+      "sha256": "d04d74a3692047880e7b7fba2b016e6f1d9e5f91ca2f9e42f5c599ad25f5e55c",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test8.png",
+      "new": "data/examples/thaksin-university-example-01.png",
+      "university": "Thaksin University",
+      "sha256": "7009c8c43c19560443fc50d0e0513da5e2e6e99d99cc31af0cebbc93cb9e2549",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "Image/test9.png",
+      "new": "data/examples/thammasat-university-example-01.png",
+      "university": "Thammasat University",
+      "sha256": "29a2da76b6c80e83858efb1dd7a7db0bfed1df6d831a938b5cda73180bdc1724",
+      "kind": "example",
+      "label_evidence": "exact decoded RGBA pixel match with manifest"
+    },
+    {
+      "old": "dataset_candidates/Bangkok University/new_11923badde20.png",
+      "new": "data/candidates/bangkok-university/bangkok-university-logo-candidate-01.png",
+      "sha256": "90e4efa2bd9086fd3867188d34e9c60801130002b07a5011a257c7b551222170",
+      "kind": "candidate",
+      "university": "Bangkok University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Bangkok University/new_5bf988f1b3f0.png",
+      "new": "data/candidates/bangkok-university/bangkok-university-logo-candidate-02.png",
+      "sha256": "2cfdd6fb69a94ce059f24d48e83a58d7f6cbd0c8e6f6cbe7c4f464cc4f494b96",
+      "kind": "candidate",
+      "university": "Bangkok University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Bangkok University/new_a9016c0cc7ce.png",
+      "new": "data/candidates/bangkok-university/bangkok-university-logo-candidate-03.png",
+      "sha256": "a29d95852e73a4ab8787b939b2241df9c07d6b59351910f6aad7a58a52f5f52e",
+      "kind": "candidate",
+      "university": "Bangkok University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Burapha University/official_9eaca17c2749.png",
+      "new": "data/candidates/burapha-university/burapha-university-logo-candidate-01.png",
+      "sha256": "4e5a669be2b2096afa3eac12ec5c62a1d1f21fc2fe36ddd8a7177f4ae12e0b07",
+      "kind": "candidate",
+      "university": "Burapha University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Chiang Mai University/official_068f78282679.png",
+      "new": "data/candidates/chiang-mai-university/chiang-mai-university-logo-candidate-01.png",
+      "sha256": "ce263c8bc28c032deb878970516dfd6284add213f99381378b104e8f90dfeeb3",
+      "kind": "candidate",
+      "university": "Chiang Mai University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Chiang Mai University/official_c4f18a5e524a.png",
+      "new": "data/candidates/chiang-mai-university/chiang-mai-university-logo-candidate-02.png",
+      "sha256": "e99d7a2855f4d3497f2085b7392300725f4afb8c5323f626be4f8fc224140af5",
+      "kind": "candidate",
+      "university": "Chiang Mai University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Chulalongkorn University/official_8ae8e5f7f32b.png",
+      "new": "data/candidates/chulalongkorn-university/chulalongkorn-university-logo-candidate-01.png",
+      "sha256": "91c5f01c4dca3b89cea9f47cb03ded6e62f588573fd923b0aab969eb4e664157",
+      "kind": "candidate",
+      "university": "Chulalongkorn University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Chulalongkorn University/official_ef0180bd1c39.png",
+      "new": "data/candidates/chulalongkorn-university/chulalongkorn-university-logo-candidate-02.png",
+      "sha256": "dff4e5a60f1d069e6ace6eddbc177482caf80079d255a8cb3f188f0083f3771d",
+      "kind": "candidate",
+      "university": "Chulalongkorn University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Dhurakij Pundit University/new_bf3a945165a4.png",
+      "new": "data/candidates/dhurakij-pundit-university/dhurakij-pundit-university-logo-candidate-01.png",
+      "sha256": "054551a15d17b554f6396752a7d62c061a4725fd4c22e481d273d7f3553d355e",
+      "kind": "candidate",
+      "university": "Dhurakij Pundit University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Kasetsart University/new_a35babd98dbd.png",
+      "new": "data/candidates/kasetsart-university/kasetsart-university-logo-candidate-01.png",
+      "sha256": "4d538127294c955713bd6dd48c284dd6afd584cc972a413bb4441649d8bd5621",
+      "kind": "candidate",
+      "university": "Kasetsart University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Kasetsart University/new_d74f4496359a.png",
+      "new": "data/candidates/kasetsart-university/kasetsart-university-logo-candidate-02.png",
+      "sha256": "2d3ae5799153408d97267739fe0a785dff267ce16f5277d701c1a524cf2225eb",
+      "kind": "candidate",
+      "university": "Kasetsart University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Khon Kaen University/official_83fc20de6666.png",
+      "new": "data/candidates/khon-kaen-university/khon-kaen-university-logo-candidate-01.png",
+      "sha256": "5ca4cd0c4afb6ef202855f53becc2db4589d7478f2b33e14fceb20d94fb9c221",
+      "kind": "candidate",
+      "university": "Khon Kaen University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/King Mongkut's Institute of Technology Ladkrabang/official_ffaa9e98eaf9.png",
+      "new": "data/candidates/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-candidate-01.png",
+      "sha256": "ca107a9af4ecc58dd4224e13b9df3cf8f97811e6ef34089dd40fdcb5259bda8c",
+      "kind": "candidate",
+      "university": "King Mongkut's Institute of Technology Ladkrabang",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/King Mongkut's University of Technology North Bangkok/official_c4bbb711e6d6.png",
+      "new": "data/candidates/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-candidate-01.png",
+      "sha256": "a533cef8b48d1f1d22d917a50d463fe6f0f82c4f01cae53e55a6bb9b5f63d69a",
+      "kind": "candidate",
+      "university": "King Mongkut's University of Technology North Bangkok",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/King Mongkut's University of Technology Thonburi/new_bfdc96679eb8.png",
+      "new": "data/candidates/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-candidate-01.png",
+      "sha256": "920c5baf911e895ff85c91a41b89e46cfa04770b1aef7b857d1e27b8284d1a2b",
+      "kind": "candidate",
+      "university": "King Mongkut's University of Technology Thonburi",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Mae Fah Luang University/followup_0cf56334e5d5.png",
+      "new": "data/candidates/mae-fah-luang-university/mae-fah-luang-university-logo-candidate-01.png",
+      "sha256": "df8988f88a4cf2d9418534d7d913536f8577b0a1b5245439db68729a75d2826b",
+      "kind": "candidate",
+      "university": "Mae Fah Luang University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Mae Fah Luang University/new_7ff25bcd3119.png",
+      "new": "data/candidates/mae-fah-luang-university/mae-fah-luang-university-logo-candidate-02.png",
+      "sha256": "0393cda43d1650747e5e2ebf2c944d34ebd80b5f3e7eaf7321f5e8045df45493",
+      "kind": "candidate",
+      "university": "Mae Fah Luang University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Maejo University/new_74b7c8858eee.png",
+      "new": "data/candidates/maejo-university/maejo-university-logo-candidate-01.png",
+      "sha256": "9e2d30067ea2bc84b186ffc3d4a2753fd1416ec1c53d1b198da82521d3a92cd5",
+      "kind": "candidate",
+      "university": "Maejo University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Maejo University/new_80c4845d0623.png",
+      "new": "data/candidates/maejo-university/maejo-university-logo-candidate-02.png",
+      "sha256": "a19eca06009c808cddeb9921456e745f6e4ee2ebe8315c945333f888996cd01e",
+      "kind": "candidate",
+      "university": "Maejo University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Maejo University/new_cbdbf1fc9f53.png",
+      "new": "data/candidates/maejo-university/maejo-university-logo-candidate-03.png",
+      "sha256": "3e375af526dde967f57553623b45c4976a9a03d18526abb373408d3bb220d4cd",
+      "kind": "candidate",
+      "university": "Maejo University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Mahasarakham University/official_ec7b4dae83a2.png",
+      "new": "data/candidates/mahasarakham-university/mahasarakham-university-logo-candidate-01.png",
+      "sha256": "0e498f05bb38b571367e401217bb97196ae7917dafa085cdec77c0240540edd2",
+      "kind": "candidate",
+      "university": "Mahasarakham University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Mahidol University/followup_official.png",
+      "new": "data/candidates/mahidol-university/mahidol-university-logo-candidate-01.png",
+      "sha256": "969100af90926fc5209e998643da46ec816dbd101b5b00750637b702b35b0ae6",
+      "kind": "candidate",
+      "university": "Mahidol University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Naresuan University/official_e9f94e82d146.png",
+      "new": "data/candidates/naresuan-university/naresuan-university-logo-candidate-01.png",
+      "sha256": "9ee53233df1d1210bd84be5da2e1a3d107b541c7c8a016694b1b6bb9dd490441",
+      "kind": "candidate",
+      "university": "Naresuan University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Panyapiwat Institute of Management/official_e3e6d8fb08f0.png",
+      "new": "data/candidates/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-candidate-01.png",
+      "sha256": "212b3dbed4e9c56fb32597c502c003b51e84d54b1e9e006ddc9e87be7a8ea540",
+      "kind": "candidate",
+      "university": "Panyapiwat Institute of Management",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Rajamangala University of Technology Thanyaburi/followup_official.png",
+      "new": "data/candidates/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-candidate-01.png",
+      "sha256": "9042ec4237d9c124e347bae4a775e87af18f6991b08b194f6639a01fc358356c",
+      "kind": "candidate",
+      "university": "Rajamangala University of Technology Thanyaburi",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Ramkhamhaeng University/followup_8e2675a446c6.png",
+      "new": "data/candidates/ramkhamhaeng-university/ramkhamhaeng-university-logo-candidate-01.png",
+      "sha256": "951304b8cc74bf4aa699e8d15481037cf6524fb8bb2fd15dd1537b3a284da3ce",
+      "kind": "candidate",
+      "university": "Ramkhamhaeng University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Ramkhamhaeng University/new_14400c63604d.png",
+      "new": "data/candidates/ramkhamhaeng-university/ramkhamhaeng-university-logo-candidate-02.png",
+      "sha256": "aed017135a1b0198803524acab38c29df95ccbe31f1034a47643d43128505fde",
+      "kind": "candidate",
+      "university": "Ramkhamhaeng University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Rangsit University/official_75fce018c15e.png",
+      "new": "data/candidates/rangsit-university/rangsit-university-logo-candidate-01.png",
+      "sha256": "e109bc7cac5dc24ce688dd4cd45314818f971d4d39c1daad8cd547229ef24fc6",
+      "kind": "candidate",
+      "university": "Rangsit University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Saint Louis College/followup_fa6d2ad5e360.png",
+      "new": "data/candidates/saint-louis-college/saint-louis-college-logo-candidate-01.png",
+      "sha256": "d14c784a01208f0bf7b424e735523e0e6262740071999b277f9de270c75fcef9",
+      "kind": "candidate",
+      "university": "Saint Louis College",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Silpakorn University/new_8dec973195fb.png",
+      "new": "data/candidates/silpakorn-university/silpakorn-university-logo-candidate-01.png",
+      "sha256": "0aadb3373b99479ab35ef3e96e20e54f0c8e1fdf5ef961a7c5996da80ad7c1bf",
+      "kind": "candidate",
+      "university": "Silpakorn University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Sripatum University/official_69fc347033eb.png",
+      "new": "data/candidates/sripatum-university/sripatum-university-logo-candidate-01.png",
+      "sha256": "d7b1675edc32f5495ef6795bbc4362fdc8492a2285eecd909a5c77994fbfd3e0",
+      "kind": "candidate",
+      "university": "Sripatum University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Sripatum University/official_b14242999dc1.png",
+      "new": "data/candidates/sripatum-university/sripatum-university-logo-candidate-02.png",
+      "sha256": "a869abb7efe5f6dffc70531132866a1350dffda776f733277a89de673b6d3850",
+      "kind": "candidate",
+      "university": "Sripatum University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Dusit University/new_19a54f965d83.png",
+      "new": "data/candidates/suan-dusit-university/suan-dusit-university-logo-candidate-01.png",
+      "sha256": "63c58dab9bdd2af871032e17bdf10f5c3f486e42e11861538b0c99b1de81ea27",
+      "kind": "candidate",
+      "university": "Suan Dusit University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Dusit University/new_41f75116d153.png",
+      "new": "data/candidates/suan-dusit-university/suan-dusit-university-logo-candidate-02.png",
+      "sha256": "f9d4f97fab8193d0e603eedb929d78430522e1fa97d380c065e6d0a6bc47743b",
+      "kind": "candidate",
+      "university": "Suan Dusit University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Dusit University/new_a44d31a0f690.png",
+      "new": "data/candidates/suan-dusit-university/suan-dusit-university-logo-candidate-03.png",
+      "sha256": "76c9fe6915f35c36bae5d0b12a1be16716860950872c1f3a2445e1cab1529633",
+      "kind": "candidate",
+      "university": "Suan Dusit University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Sunandha Rajabhat University/new_19153cb13028.png",
+      "new": "data/candidates/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-candidate-01.png",
+      "sha256": "82202c9078ce3f85846bfdbb44f527075704e24d6d53a272f797659617a793d8",
+      "kind": "candidate",
+      "university": "Suan Sunandha Rajabhat University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Sunandha Rajabhat University/new_1e7ec550e5b1.png",
+      "new": "data/candidates/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-candidate-02.png",
+      "sha256": "265f733bfbb7a30d33bf111ef4169927da0839c316415c0a114ff5259c66c9ec",
+      "kind": "candidate",
+      "university": "Suan Sunandha Rajabhat University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suan Sunandha Rajabhat University/new_feb87a48ec7a.png",
+      "new": "data/candidates/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-candidate-03.png",
+      "sha256": "5365484d1b52471002c6685b4fb32aa899c93d9c9de8e69040ac370ea6ddc481",
+      "kind": "candidate",
+      "university": "Suan Sunandha Rajabhat University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suranaree University of Technology/followup_9e8a55822ad0.png",
+      "new": "data/candidates/suranaree-university-of-technology/suranaree-university-of-technology-logo-candidate-01.png",
+      "sha256": "20e9f436e7cab68195159155ff5d6246383adb19519f1f939a4b695c548bdab3",
+      "kind": "candidate",
+      "university": "Suranaree University of Technology",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Suranaree University of Technology/followup_f4b69cae7557.png",
+      "new": "data/candidates/suranaree-university-of-technology/suranaree-university-of-technology-logo-candidate-02.png",
+      "sha256": "90099297eac63b7c8e734e4a49ae782081aa8a8e5a96adfa57b245a4c1b80f32",
+      "kind": "candidate",
+      "university": "Suranaree University of Technology",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Thaksin University/official_44450cab50c2.png",
+      "new": "data/candidates/thaksin-university/thaksin-university-logo-candidate-01.png",
+      "sha256": "4ac6980fc39892bba3c183fd67d2e8645cb7e6c88a6d59efad1814555c5c8c1b",
+      "kind": "candidate",
+      "university": "Thaksin University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/Thammasat University/official_778e938a75a8.png",
+      "new": "data/candidates/thammasat-university/thammasat-university-logo-candidate-01.png",
+      "sha256": "4243bd2ce34e86bf7f95edf44cb0e56a478bbd7d48414ceb073961fe80bae73d",
+      "kind": "candidate",
+      "university": "Thammasat University",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of Phayao/new_708c40bcf75c.png",
+      "new": "data/candidates/university-of-phayao/university-of-phayao-logo-candidate-01.png",
+      "sha256": "5e57d525bd3480f324ecc426de51170fad8483ebb734258b60a2b330e1c940be",
+      "kind": "candidate",
+      "university": "University of Phayao",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of Phayao/new_8a71234b94a6.png",
+      "new": "data/candidates/university-of-phayao/university-of-phayao-logo-candidate-02.png",
+      "sha256": "4da4c9ae16e490c8f6652aa96b3392ea0b5424d253b54bcbee07e2701ffe5abf",
+      "kind": "candidate",
+      "university": "University of Phayao",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of Phayao/new_a4cad22e440d.png",
+      "new": "data/candidates/university-of-phayao/university-of-phayao-logo-candidate-03.png",
+      "sha256": "bfd07e5cdfd8281fe8f10fa8ebdf4f2a15934fed60b5645ac2ef2df5903a86da",
+      "kind": "candidate",
+      "university": "University of Phayao",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of the Thai Chamber of Commerce/followup_e3383f2b9f21.png",
+      "new": "data/candidates/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-candidate-01.png",
+      "sha256": "d31757209b97a36a60cacfebf7b73af6615cdca8680a9c803d2e08d2a4f52b37",
+      "kind": "candidate",
+      "university": "University of the Thai Chamber of Commerce",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of the Thai Chamber of Commerce/followup_e3383f2b9f21_seal_crop.png",
+      "new": "data/candidates/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-candidate-02-crop.png",
+      "sha256": "54caa7168c526884d6f1c50e0f3b356551209ba53d1005261fd3e09bc3c924fb",
+      "kind": "candidate",
+      "university": "University of the Thai Chamber of Commerce",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/University of the Thai Chamber of Commerce/new_e6d2283b12cd.png",
+      "new": "data/candidates/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-candidate-03.png",
+      "sha256": "a9e1a47d44b2a3330794a0cfe72cd6a5f30f1cdbcd6d4004fc6bbcbcb7147709",
+      "kind": "candidate",
+      "university": "University of the Thai Chamber of Commerce",
+      "renamed_university_asset": true
+    },
+    {
+      "old": "dataset_candidates/followup_approved_preview.jpg",
+      "new": "data/candidates/followup_approved_preview.jpg",
+      "sha256": "46b761f9c40114a20e36d1058b5e668dc46ecc29dd1c022ca1d52fd562c90666",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/followup_preview.jpg",
+      "new": "data/candidates/followup_preview.jpg",
+      "sha256": "ca080f775e72532446667571d6cf17b30ba12747aa330ac8f750c5eee7e4e954",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/legacy_preview.jpg",
+      "new": "data/candidates/legacy_preview.jpg",
+      "sha256": "3e8899e6bf0890f4c5202aa7e58c9f3af1906a2886cc18cb73c32c26694ed0c1",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/mu_followup.png",
+      "new": "data/candidates/mu_followup.png",
+      "sha256": "304a02644bb427ce83d187644bf259c9b38d84d592b5e656453583cdd4ce51ee",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/new_preview_0.jpg",
+      "new": "data/candidates/new_preview_0.jpg",
+      "sha256": "69267f8f0ce6ccf79a7f70bad1d054a8884bd3e658778e43b669190e4b2d2799",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/new_preview_1.jpg",
+      "new": "data/candidates/new_preview_1.jpg",
+      "sha256": "d6102e1d396ef336d3e8c72b5ede9f213bbcfff404f5c3192cda679ce88e17ec",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/preview.jpg",
+      "new": "data/candidates/preview.jpg",
+      "sha256": "209d40f04327194a4e1f12b125118de8d1b3e99d9747b2d41aab37ca1abb4741",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/rmutt_followup.png",
+      "new": "data/candidates/rmutt_followup.png",
+      "sha256": "9042ec4237d9c124e347bae4a775e87af18f6991b08b194f6639a01fc358356c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/__pycache__/collect_official.cpython-313.pyc",
+      "new": "data/candidates/__pycache__/collect_official.cpython-313.pyc",
+      "sha256": "190ecdd753d2e051270f0496e7c1288f23a0f4e46118a6bb82da5fbba9c06e94",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/previews/kasetsart-university-document-crops.jpg",
+      "new": "data/candidates/expansion_20261022/previews/kasetsart-university-document-crops.jpg",
+      "sha256": "aa075f5dd0677927ddd7bf77e0b566029f4b77772856e7e70e63b0a8f8e97777",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/previews/kasetsart-university-manual-page-12.png",
+      "new": "data/candidates/expansion_20261022/previews/kasetsart-university-manual-page-12.png",
+      "sha256": "e8c1605620f9f0dc3e6eb375f9d36ba37ef4cd85650d634ba3c99b2770ab010b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/previews/kasetsart-university-manual-page-22.png",
+      "new": "data/candidates/expansion_20261022/previews/kasetsart-university-manual-page-22.png",
+      "sha256": "0d08ee2505765137cd0f7bc1b4e8daf8fffccabe034969d915115b47dce68974",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/previews/kasetsart-university-manual-pages-preview.jpg",
+      "new": "data/candidates/expansion_20261022/previews/kasetsart-university-manual-pages-preview.jpg",
+      "sha256": "7b79814893c4a4d52eb9fb33a030ade5840749e803452c1d0b38b9aac4c90d51",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "new": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-black-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-black-01.png",
+      "sha256": "696af4a895494e11dfb51d25b0cffc0f8ae9abe41bde8c1ff4e30dbb530821a4",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-brown-background-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-brown-background-01.png",
+      "sha256": "5f56dd291c5fdd078a94b14cb17c71cf9761530951e73b75e79a700bcf9cc7ad",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-gray-background-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-gray-background-01.png",
+      "sha256": "946f0734cfb43415e4b13b15994c9bdf4a55ffd98e9060aac4f4f6b528fb894a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-green-background-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-green-background-01.png",
+      "sha256": "2c1ab6d3669dd44c0608a5b7692d5b4985de2b4c644d76e12952097b8d68b9fc",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-primary-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-primary-01.png",
+      "sha256": "ebc5c3776a5d87ea32e7167521de2b3d2d5dd7407bbea1be318ca895eaad2cbd",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-reversed-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-reversed-01.png",
+      "sha256": "fbe561473efb3155d6c7dc2528e4c93c7eacb7bfc010e47c0c151dcc2ad366d2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-yellow-background-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-yellow-background-01.png",
+      "sha256": "2fbfba604289492ca39ada7c6db01d57f6c8ba13376a827449adc55c0b32062a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-english-color-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-english-color-01.png",
+      "sha256": "f9a969699dc1f41a326c7de7c4fe48007c62ba4e237e12b55597aa71cdda69b2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-thai-color-01.png",
+      "new": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-thai-color-01.png",
+      "sha256": "11d86fa938211d474e14248d5afb341b04caedc1353f8450302e102e0a77c809",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/previews/all-training-parents.jpg",
+      "new": "data/candidates/augmentation_20261022/previews/all-training-parents.jpg",
+      "sha256": "eebfae9acc579f5db22008b1395c75f5da45158af1d0f0811ddf3244d8f63604",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/previews/preview.jpg",
+      "new": "data/candidates/augmentation_20261022/previews/preview.jpg",
+      "sha256": "dfeab1389aaaee565c4efd1a2d48a9deca0c3d0c68041e717542ae8e4395a291",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-dim-light-01.png",
+      "sha256": "3a49829a85c1250f35eed2bba401528c9cc624a95a409becea441534705d606e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-grayscale-01.png",
+      "sha256": "691c6f737d424abf13c634ffb469ba8e62ce558906392b007edfeabf9639c5d8",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-jpeg35-01.png",
+      "sha256": "cbfcd1ca03fd75989f51e6d04f88dc97f539a5b24f0a8a5669447f01dd2aa6e8",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-rotate-minus6-01.png",
+      "sha256": "0ce719acfff09f3dfea475f784f3d79608e2d94a511e688f28b60ffb0c919306",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-rotate-plus6-01.png",
+      "sha256": "caf6a0a4224ea573d922ebe0d729365aacc8deaa87882d190db01faf30101de2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/bangkok-university/bangkok-university-logo-scan-blur-01.png",
+      "sha256": "9c860221838f351ec00646df29a736c5e3249b5e721892e7a5d1c77a8c03aa1b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-dim-light-01.png",
+      "sha256": "db356155af61e0651a113e7af9105486b10aad074095208413c30e30288f74b7",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-grayscale-01.png",
+      "sha256": "713bcb08bb3797ccb04814e69420bcd2add971cea1f6fa3540d5c921da622aa0",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-jpeg35-01.png",
+      "sha256": "ebde68bc0402959e12658cc6eac7646c4c234d2ff213eb8d532dad1d489ad432",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-rotate-minus6-01.png",
+      "sha256": "f8b0008e9edcbaceb158a5f68a21eb1e24c522e8e7f115b54af91f8d57e5a956",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-rotate-plus6-01.png",
+      "sha256": "165207cdcd773b99788de5513eb1d2df602c9296c86fa2433b0bb23e49337ac1",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/burapha-university/burapha-university-logo-scan-blur-01.png",
+      "sha256": "8dad58a34dd3bafba9573f1e7929cccaaba28ab91d284acf67f323340a1fc5e6",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-dim-light-01.png",
+      "sha256": "c530bbed5524b20cc3a14495b301d40245e5b3c55693ef82e00513919663ee8b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-grayscale-01.png",
+      "sha256": "9b548bd6fe2618c0c64650b923052209ce69266ad0b5868407fd4f9fdadb7a3c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-jpeg35-01.png",
+      "sha256": "94d9a8ad039ab95bee2e7a9b1398b8ce8fb6d71438505354f71e2b5fcb789230",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-rotate-minus6-01.png",
+      "sha256": "5c5a85305fcd5284357425aacdd64012f0d42431c5b6a2026b7d23e24a656035",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-rotate-plus6-01.png",
+      "sha256": "947b27facb26073de4519398801e103ed30d55be21d316141b6364870295bf81",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chiang-mai-university/chiang-mai-university-logo-scan-blur-01.png",
+      "sha256": "4b5b683d2c683967f046b43011626091105219f78a376c41c9f7ebbc437cb87f",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-dim-light-01.png",
+      "sha256": "c7f9aff7596aed0773648f8d571b6825f99b72b6d50f2286feb54ccc58bcb06b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-grayscale-01.png",
+      "sha256": "7f6df2f052650b8f779077b1a0d89c433af595fb16844e4c71ce36a5be667410",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-jpeg35-01.png",
+      "sha256": "12a25eaba8dcf6ffa51dc18a7dc2f5a730da6afdd3c5d608eb6c6d9ab2e4b3fe",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-rotate-minus6-01.png",
+      "sha256": "8e444fb223acd22fc26fe196e7fce7d4fde8f7649de2dba19fbcf4da63ab07ef",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-rotate-plus6-01.png",
+      "sha256": "f46824042f627857cc043a4c74e85a479d754470b6660b6b75a5c8affa1aaff3",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/chulalongkorn-university/chulalongkorn-university-logo-scan-blur-01.png",
+      "sha256": "a9037c72ac144074f67035b51c749fdbc00230f67efb863cd3f11211d8366b4c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-dim-light-01.png",
+      "sha256": "77cd152eaa1a9970242bdb8de1bb92147fe87457d8613f40fd645597cf4333ee",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-grayscale-01.png",
+      "sha256": "493e67bd70557eb0080a38bb418fe8e8ce523c26a7f2e1e7753175589b1a318d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-jpeg35-01.png",
+      "sha256": "da2c77d444e5636fa9863194356bda724b8cde095c557c9f1c85118877afe0f1",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-rotate-minus6-01.png",
+      "sha256": "024dfee8d8c66c207fb07718be60b41aed4ad95b2c282c654476a4ef175a5dda",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-rotate-plus6-01.png",
+      "sha256": "9db185fe4250135eeba8b565ead9e44992b5466996c0ae296ae4d5c216888586",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/dhurakij-pundit-university/dhurakij-pundit-university-logo-scan-blur-01.png",
+      "sha256": "3ed24dd19607144221fdf41e6bc04afa97a143c4db030601f59dff8bb45685e0",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-dim-light-01.png",
+      "sha256": "24691b689780a6c0cacba24c89ae0c0b492852c396d27d3714b16cd37e43be9e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-grayscale-01.png",
+      "sha256": "e889921fd614fe03af3e0cac7fc5d6f92bb6ac3a961bae9a55560121d9ccaff3",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-jpeg35-01.png",
+      "sha256": "b1d58449c9da0ec76b736e581e5a4ecd67bfa129557105da42fac476d549aa3d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-rotate-minus6-01.png",
+      "sha256": "6146b3dfa7e02118f6f2961d2a8c443fbea683589620b40f125d512d69a77704",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-rotate-plus6-01.png",
+      "sha256": "04dd1ee5359ba7ea5d767c9bea00f57e43bdde60840fa24ba5cce32b640d0ff3",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/kasetsart-university/kasetsart-university-logo-scan-blur-01.png",
+      "sha256": "1f9efbfcad23a64cf9c08a996bbe6ee127a955185a35e70bba083515c8fdd909",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-dim-light-01.png",
+      "sha256": "ef986df1ce3de34853d165b2708bd501b2a6c1f63d72ec804c3d21b5582776e5",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-grayscale-01.png",
+      "sha256": "228b205319808797b0edca6cdb72130a3a53f44895422876243a1071db84bb3e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-jpeg35-01.png",
+      "sha256": "1e63d37b85539245835da6fd1a3f6868992800a57237e1926611744e4414686d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-rotate-minus6-01.png",
+      "sha256": "65ec7499ba59bccf023ecb5fdcfecd918fc3ba4a80ec94af5c540664ec13e22b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-rotate-plus6-01.png",
+      "sha256": "50c30f62eb0f53d7b6f3284d15db17d05a553776007fcfe0b5d4e81ef9427fd2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/khon-kaen-university/khon-kaen-university-logo-scan-blur-01.png",
+      "sha256": "0aae8e911fdcd3b8f48686093392c1eaf04ef6c85086ebd94ef406d23598d2dd",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-dim-light-01.png",
+      "sha256": "b604a11706b5003970827a33f2f6e6500def9312fabc98cf8d4e26ea04c993e5",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-grayscale-01.png",
+      "sha256": "8bbe7bfbddac6e20cf2c43ea74e3589a2d1e546d81eac1bbe6f44cb828faee42",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-jpeg35-01.png",
+      "sha256": "01002c061fdbfe6be61b4bd4a535ea293723463f660ad1ef5b3015470ce20531",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-rotate-minus6-01.png",
+      "sha256": "a04cba17baceb3b11f8e148ecdb5bc8cd8bd462c57a8bc496953535bd721c509",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-rotate-plus6-01.png",
+      "sha256": "c1d357c62b749c571733f888401ad1df54a83de8127c716b4bc8658719199898",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-institute-of-technology-ladkrabang/king-mongkut-s-institute-of-technology-ladkrabang-logo-scan-blur-01.png",
+      "sha256": "e3f45c10a18ba8dcd24d00c1217ebaa4efab53aed0e0e0f7fe4bd23730ebb5e6",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-dim-light-01.png",
+      "sha256": "4c0d985498c2d47fff48b7932a0f40df88fdff20d06f4fe1127d336f11bf0cf0",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-grayscale-01.png",
+      "sha256": "081ccf3c8df79bc117efe737c6d3463236819a870b5c824b9ef970d3d8d6e46e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-jpeg35-01.png",
+      "sha256": "8b9cfe65dcd76ef90b6984461810bac987806e9a17d76de4c556396704481361",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-rotate-minus6-01.png",
+      "sha256": "e177222c2e0b4bd0be05cf796e4b1902a9cdcc08bfc6783c84289ac33ddda7d3",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-rotate-plus6-01.png",
+      "sha256": "c1ccb4d572dd1e3aede3a38fd7f7492c2c474c9448a25b30a2050bf7be734f8d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-north-bangkok/king-mongkut-s-university-of-technology-north-bangkok-logo-scan-blur-01.png",
+      "sha256": "46fa8e4ff4c94c21040e0519610f29e77cb55345ac0b35afb342c60fb75c1e21",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-dim-light-01.png",
+      "sha256": "26e81070b897e1438f63db03ae7815399338100a6812dba073fabea591a2e0ae",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-grayscale-01.png",
+      "sha256": "f09429ff11d009994c96435007454758e37294463f82c05b8d2395b9d73a7414",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-jpeg35-01.png",
+      "sha256": "1a5b0890e2c8243f06dc042b9afed1ddec0af37e3a6d34cba3205783a665cf7f",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-rotate-minus6-01.png",
+      "sha256": "f7ec566d2acda7ae4d3ff84727106728ee27d6eab0258d1d99c9dd0db33eb513",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-rotate-plus6-01.png",
+      "sha256": "aa144726fa61222f3c4cc4aec9064beb74147ad3c26e855b0fe7b59e9c1a8b79",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/king-mongkut-s-university-of-technology-thonburi/king-mongkut-s-university-of-technology-thonburi-logo-scan-blur-01.png",
+      "sha256": "807392951062bb60eadd5a0aa65bc6c1f7f5ed947dd59bebf5bfbf803dd3f6ab",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-dim-light-01.png",
+      "sha256": "58c927556fc589fadccebc59cc05985163ff50851d04486b3d481027d2acecc2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-grayscale-01.png",
+      "sha256": "102d92b472a959b6f95d27a79b4d6b3770c07f746a8a94756204e74e4f3ff27f",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-jpeg35-01.png",
+      "sha256": "4f8aab19473dc7b1e2d4ee1363585414fa8019f49705b4af5986fdebaeeb7528",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-rotate-minus6-01.png",
+      "sha256": "9a8de836aac66e1dcabb6807049ed618db4ead46149d2528960b54b2e3355be1",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-rotate-plus6-01.png",
+      "sha256": "a15ea155f3b9074f6609da36066880df7de32a989236e54a5e1bc20749ebfb5d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mae-fah-luang-university/mae-fah-luang-university-logo-scan-blur-01.png",
+      "sha256": "61461275b4317652cebc1857e9709ac55e795571ea008adafc4433ef68902fe9",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-dim-light-01.png",
+      "sha256": "8e57118996401bfa17f5069c46e979cad7b0c337c9e4497f64e366e9b9edee7e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-grayscale-01.png",
+      "sha256": "b8ee661801aa20a16e971bf4cb16a640636ef4f1f65a752f28ea4de390b86ced",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-jpeg35-01.png",
+      "sha256": "973e082cb6e24bf53bbf7dbfb8e40c8172c8f4e095ee55406c9c24b030fa3dd8",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-rotate-minus6-01.png",
+      "sha256": "d410d63b34957cea9997db7655c9f70ce0ccf44a3afd8f68fb7e047918ac85e7",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-rotate-plus6-01.png",
+      "sha256": "28ec100b739ee42db1bfd9b49ebf0c0a9f1136e7e94bbe1da946c318257d7e5a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/maejo-university/maejo-university-logo-scan-blur-01.png",
+      "sha256": "ef17c97cbdc62755a3c755c8fdf8938517652ffad8fe3c7996ebb812d1bce7f9",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-dim-light-01.png",
+      "sha256": "eaf54aace8352cad0573805c6dfb1a338c9de46b640d9da1283613485d8e0e52",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-grayscale-01.png",
+      "sha256": "7f18ad16cf4799d641769b4e73dab7455c173546f687095981139e998a2dec6b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-jpeg35-01.png",
+      "sha256": "f96a4dc6cb49a53d172790612381af6808f5f57159400ffef6cb6a3e959b09ab",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-rotate-minus6-01.png",
+      "sha256": "fc1b55624eed07f6e0e1798d3e88c0cf6cf840ad037c05c857413ea395a51109",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-rotate-plus6-01.png",
+      "sha256": "f73688a40c3956989b2e01970acea72b83cb9c6281cfd1f3977a8009d5a704ef",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahasarakham-university/mahasarakham-university-logo-scan-blur-01.png",
+      "sha256": "2ba18b6479bd94ab298d10439d5be0faa0e9ac0378864e6392bb2eed102e12eb",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-dim-light-01.png",
+      "sha256": "13a211829d00a639b01015d5957ba3d1296faf0cc3a9778ca88a203dca2b4533",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-grayscale-01.png",
+      "sha256": "b949bc3df917998b882dc38cab057977c84334118f375afae5c521f309ebc70e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-jpeg35-01.png",
+      "sha256": "4047af6107a8baa8159e11a27425df62415757952a82b79e9b1076d4d78434c7",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-rotate-minus6-01.png",
+      "sha256": "0161656d583fcf9e9a67b013508f3f56eacd1560c540d6a4d34a422e5c12167e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-rotate-plus6-01.png",
+      "sha256": "77311e94d1e32f9a8b7f779a44cae7fabaee9b01d2b770eca4c480f678ea74a6",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/mahidol-university/mahidol-university-logo-scan-blur-01.png",
+      "sha256": "6663bbe9e18a86c25343586af6a2360f57c7d0a9a33a7ccdcc7e91386f59a02b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-dim-light-01.png",
+      "sha256": "6a92bf2739cdfae018e29157135b46a0160477d589ab16b0d9241f8c1ada88d5",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-grayscale-01.png",
+      "sha256": "9802e1154548a34477db73b1b2149a3d88755d3de30f01e9b6500b25f7b8f045",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-jpeg35-01.png",
+      "sha256": "5ec03363724188562eef284caa9d44247664429ef923de31b16b7803620cdff6",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-rotate-minus6-01.png",
+      "sha256": "7237e9084f3556c3352e3f36abad5275e40f634cef876c6dcf0f05531b820cb3",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-rotate-plus6-01.png",
+      "sha256": "33048715e0e97c8fdb5882d8379653f0c53a0d0c23fb9a3e2c25af1d64f7f618",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/naresuan-university/naresuan-university-logo-scan-blur-01.png",
+      "sha256": "bf463cc37dfca9848bbeb32f1ca820448d36ed7ea9043bb187abce6375eb396e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-dim-light-01.png",
+      "sha256": "b48e80916c888793fb3da4a7b30c5f6279f27f90a3e8734ee3f3459e1a060d90",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-grayscale-01.png",
+      "sha256": "ceefdfb274a03a58bbaa6d7413f122a76a8e9314dc04b1b08ed2cefa143d7870",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-jpeg35-01.png",
+      "sha256": "58e308b220491d9cacc2b7b208e0084eae755f061b956bf5b290541fc7ecbf1e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-rotate-minus6-01.png",
+      "sha256": "e78e911f038ce4acc1ff53a7fd085e738dedadb5a5b83b85545af67f912b7812",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-rotate-plus6-01.png",
+      "sha256": "80f2fffe14c5ea241cc1525a947a1417f971bc1e79f34f31b6f9219df45d1e6b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/panyapiwat-institute-of-management/panyapiwat-institute-of-management-logo-scan-blur-01.png",
+      "sha256": "35539b554e26725ca14cecc4286837fa189e6b0768d46b6cb146d59e3f62ba86",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-dim-light-01.png",
+      "sha256": "cbc4639032c8781226596c9302526ff792ab47d46712631e8d731ede6ba914cc",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-grayscale-01.png",
+      "sha256": "04d9bcd5b662c9381433cb7aa98867f1a3f99ebae4cf79156fd414763b04caa7",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-jpeg35-01.png",
+      "sha256": "16377c13502d7382b6e9d444c8984a262ef899d0b09205757675f7e76b77eb0a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-rotate-minus6-01.png",
+      "sha256": "32082d63c331dda9545c72714470c94daab5b3dbc943579326f3db05a269748c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-rotate-plus6-01.png",
+      "sha256": "5422baa313d8afc4be3b32c8a6b0a6a9e2610235947b4ef544cf2f0eb3fd893c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rajamangala-university-of-technology-thanyaburi/rajamangala-university-of-technology-thanyaburi-logo-scan-blur-01.png",
+      "sha256": "84415815fd28221b970a49fc650904c81f3816371def4a07191d96865ad355fe",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-dim-light-01.png",
+      "sha256": "303b5a2b348d4e9a37085dc1b28a9e77bbcc4abd911c25b9de333f42266eb614",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-grayscale-01.png",
+      "sha256": "23da0ed180a8b3cfdfba10a8c84d7f0c29a9fc1d0eda16388ad4ef9ff676347d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-jpeg35-01.png",
+      "sha256": "a6fe8e5f112556b4cb3a38f66761568d509fd2861fbd10d3621ea7f807d4b560",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-rotate-minus6-01.png",
+      "sha256": "a676de8eab9fce3147bdf4af424f45ef04bb5323a089afc3c155b420ec6a6eaf",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-rotate-plus6-01.png",
+      "sha256": "6ecd6e95e3557ac66dff1bdb9f8f9b02c3ecca384ecbebe9afa4e454680db532",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/ramkhamhaeng-university/ramkhamhaeng-university-logo-scan-blur-01.png",
+      "sha256": "fcbbf0f639fc6a02a93cb2117ec5d11577cfd920243663b6e29459ffa4db1aff",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-dim-light-01.png",
+      "sha256": "927457863057cbff48b82c7cde0201b794cb3231965b5091c3896e9d6ea96f66",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-grayscale-01.png",
+      "sha256": "5abcfcce09e33ca4c434ef59952b4102b820da2f4833e2455d1de7ef918ffb15",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-jpeg35-01.png",
+      "sha256": "7be2c89b8b2c0150c0433f1f64431c5ee52ba38dbe04fe2b21cf323249976003",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-rotate-minus6-01.png",
+      "sha256": "ad92b35b54f2f483922c402cd365062de0e67e5cb75bf2c94f7f91a745d38a05",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-rotate-plus6-01.png",
+      "sha256": "1297ff775caff500da6847e43934269d7cb00c6abd4fb8ad5d8559a0861b25ba",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/rangsit-university/rangsit-university-logo-scan-blur-01.png",
+      "sha256": "0022a6957351c9570f51a7c04e9c30381693b3170540a227bfa9aeb48db37bbc",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-dim-light-01.png",
+      "sha256": "bb7d04f0d81f286bbd0041a1360c5427abf130807c518c02b0be2edce47c123a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-grayscale-01.png",
+      "sha256": "13d7836e748814459f536e17f254f6556aa2a8a6fee8cb6f3330ef668bc3012b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-jpeg35-01.png",
+      "sha256": "5086089f0ccef670cf94ee84da274bdc667bd761d3d394dad60abe9f301ad551",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-rotate-minus6-01.png",
+      "sha256": "8b2ceaba502d23da46768db00bcb9ae8a1260172350b20979f5d1477656d469f",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-rotate-plus6-01.png",
+      "sha256": "5fb3a1d9a1a8e39f2f853f19fe2c83fd0e40ac411054765aed345c622b075934",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/saint-louis-college/saint-louis-college-logo-scan-blur-01.png",
+      "sha256": "f9aef7a457b7e20083269f767a5d46dc1846f2d5ec63eadccfc0dd7b36867f52",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-dim-light-01.png",
+      "sha256": "85c9785ee8beb18bfa51628fe248468be6eb529f2a75d619f30d8a1943a549eb",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-grayscale-01.png",
+      "sha256": "54957183dba4d78c44915c6bea43a8543523b06a1b56b7e1483ec0c9045fa50d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-jpeg35-01.png",
+      "sha256": "5b0f8babf36e548d9d152302828fa3b56a9389d9da6e426e3d283e22018b8641",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-rotate-minus6-01.png",
+      "sha256": "21341b2cd94650211eab9543627f696e0a73637b239be5d40fd57375e2853c88",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-rotate-plus6-01.png",
+      "sha256": "2d768fbe8ef55e89facba941695ec07ddebaf907e5bd1ce87144d466be69af4d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/silpakorn-university/silpakorn-university-logo-scan-blur-01.png",
+      "sha256": "35363486ac6f5012685cb93189b8178c08105a64eb318f16705eeaef8dcbf92d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-dim-light-01.png",
+      "sha256": "e515b4027bbc00f25df3451cd2a4b5656de3735ddcea335608ababf298c1ddda",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-grayscale-01.png",
+      "sha256": "a88febdd39050c03c513df5c435678cb589201fba400e668a6c79eadbd957da6",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-jpeg35-01.png",
+      "sha256": "67c46dedf07c483219044cabf1a4496e80c5a0392c84934d37f97db159d7a435",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-rotate-minus6-01.png",
+      "sha256": "0706573d77912f620476b7ae27cbed0253f79c1e30897543ec48f55135f31c1b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-rotate-plus6-01.png",
+      "sha256": "24a7a4078c8b64130d3d2846900bf432ecaeb30d684ca29618e24742b707cd14",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/srinakharinwirot-university/srinakharinwirot-university-logo-scan-blur-01.png",
+      "sha256": "5796f668dedaecb513e969c6c852b9cba8426904d4c526c8984ac3e853147b8e",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-dim-light-01.png",
+      "sha256": "501611025d14780a2dc0b8cecf5c5f195a42dde9ae593e1df1853508039442a5",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-grayscale-01.png",
+      "sha256": "2b971d7d6837b2a75447ff41c81899642b99e000138199cc8391fc9b8e13e214",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-jpeg35-01.png",
+      "sha256": "547927f5296da6fbe36bfbc6343009e40ceef323cb76e4d27dea10bc0d1e9a76",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-rotate-minus6-01.png",
+      "sha256": "9f7b864f1d4dd9800078d6655811e116c674ed6be39b292522c44f82c14c3940",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-rotate-plus6-01.png",
+      "sha256": "e66385ae1549a8871c64151547d66df4533f0cf7e6b41fd700b3242d54c6eb74",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/sripatum-university/sripatum-university-logo-scan-blur-01.png",
+      "sha256": "4a84792ec46bdd9a191922b3ea3bd12059fdc977e1a29d9c75fe40775219eb47",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-dim-light-01.png",
+      "sha256": "4e1b92330fb6de2436ee317a1f32c5bec4d069b1bf82aec110f6be562777a375",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-grayscale-01.png",
+      "sha256": "dd0f63363f480bc2a293ad1d2d2a4d1ec6d737915a2c6fbd689488f703b5dfe9",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-jpeg35-01.png",
+      "sha256": "4692d37d90e9acb236129f1c9af78960833adb69a4ccf2a10a61f17535746108",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-rotate-minus6-01.png",
+      "sha256": "3125acdc08aa7d45e756f5c1808d813c4c42f377b3eac98331df24caab40c0de",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-rotate-plus6-01.png",
+      "sha256": "78ffd61924e0e1149562e4d5d4004350edf8ef94da19ce9ef2e6bf6c9815a203",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-dusit-university/suan-dusit-university-logo-scan-blur-01.png",
+      "sha256": "c99fbfd0d2a521b1f6d7aba1a49c1047935e1e398480166ff2010772b2852ee1",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-dim-light-01.png",
+      "sha256": "5c900320d131838826061d3a137e018a517d0f67393f72e2c86b3ba8d494b048",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-grayscale-01.png",
+      "sha256": "c55e2fede3fd79912477e1c73fb338dd08f279805a48d5411db1686b78b3d305",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-jpeg35-01.png",
+      "sha256": "64299b6eef0c19c2c4f48165d49e4383f3b3beed6c34d18f75a45a242b956200",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-rotate-minus6-01.png",
+      "sha256": "46ccc5dd71fade4f547d08240619a0ed7eb3d5f5de3c9e54486da334d589ce73",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-rotate-plus6-01.png",
+      "sha256": "11d7b352b960858d63db98eaf044f4e6b3dfc0ff5321bd1f00729569678dd1ad",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suan-sunandha-rajabhat-university/suan-sunandha-rajabhat-university-logo-scan-blur-01.png",
+      "sha256": "1419b28c2d42136e186e01035fdd6d88db6df04ffab1cc40da055103728b409d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-dim-light-01.png",
+      "sha256": "89eb2d3d75872ba30043c23cb5618bae8757dc34c3633d2029035fa739b524fe",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-grayscale-01.png",
+      "sha256": "41e75e72623c74e5dc78b92051ebaa260a5604a41e7b5639dda95ae37cf24611",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-jpeg35-01.png",
+      "sha256": "9b7dcd7ef9bb7fa79763f09dafa23dbed61c14d5dda8a773de6a1b18cadabf9a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-rotate-minus6-01.png",
+      "sha256": "21ea802281e6fc644f8570253d77c457bf8d2d8af7a31d329429318ad67175b0",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-rotate-plus6-01.png",
+      "sha256": "30acaa1fd728716c866c6f6ecca32050257db05a7211ab56b4817c12af41530a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/suranaree-university-of-technology/suranaree-university-of-technology-logo-scan-blur-01.png",
+      "sha256": "ac961fb9d89ee7a1ce6f2be72bb0365da89305c9dc7f9b208dc12d349366df70",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-dim-light-01.png",
+      "sha256": "2216a1c1b6979efcdc34728d5de8bb7cbe068d581363e2ec8a5af8b46061eb34",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-grayscale-01.png",
+      "sha256": "373895f223bccb256b25c7b22e9c761c28f278497af76c9b1809a79a968d9b17",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-jpeg35-01.png",
+      "sha256": "bff67275a72a323eed70c5e31bbdb339c8bff5a685519c5ed1dfb2ef331d8192",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-rotate-minus6-01.png",
+      "sha256": "06578a7131a91f68657a50abacfad4bfa01afa13e030e5f6b8fd821c9e93a5ec",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-rotate-plus6-01.png",
+      "sha256": "1b16ed9dcdb63406dd974715738a9ee01c5dc7de2f6dcb1475bcb184b53e3b2b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thaksin-university/thaksin-university-logo-scan-blur-01.png",
+      "sha256": "5bd1976265e01ec91271029c6b33e473786b649e9f047aec5dc0646bea58af1c",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-dim-light-01.png",
+      "sha256": "2a97d6456476e0b9982a0c8e52e24683c949b0bcdc9a337c24aaad5d10d62ac2",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-grayscale-01.png",
+      "sha256": "cab2754fdc2f2ff6c736c3faf8e87fa599a00162c5ad11dd00340bfd58bfb35f",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-jpeg35-01.png",
+      "sha256": "16064f1d752041fb8e9f8ec9b9806ce26339b1665c94bcffa875ae21c816cb8d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-rotate-minus6-01.png",
+      "sha256": "383cd2c61d5cced754769ae96778aa14da55f07c89eb1c479fcab50fcdb9a620",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-rotate-plus6-01.png",
+      "sha256": "59b2f8b18b70101f93501915e8c07ace9d064e4264eafbbc934b7f8a8db18e65",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/thammasat-university/thammasat-university-logo-scan-blur-01.png",
+      "sha256": "55e2e67e34bebc9c0c463be887757508388a2bb36e6ae87a55780421ef564131",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-dim-light-01.png",
+      "sha256": "515489eef847f59a1f68541f70d389e45e0336c4c3c20312a5230205af76ac31",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-grayscale-01.png",
+      "sha256": "b6423084c98d18b1720335c7555325bc40f34d50db12747be3fd5216976a0c33",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-jpeg35-01.png",
+      "sha256": "407643b9e9780a664e365c613e081a9bf67b8250c56ddbd761eb3ca87845cf3a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-rotate-minus6-01.png",
+      "sha256": "a7f018dd15c218e809fc15ce800cb9c19276745bee4b431d77ec7fa33559595b",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-rotate-plus6-01.png",
+      "sha256": "d8491e79de4b2db7bd72e3fd9dd87f659e128fdf5bfce52afcda35eae93bbac8",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-phayao/university-of-phayao-logo-scan-blur-01.png",
+      "sha256": "bcdf0765be7033eb5328ebda176f6d30d46ea72620f7287607bab3342a602b86",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-dim-light-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-dim-light-01.png",
+      "sha256": "68ca585023fa0b82e8d4af31185245e168e56a3c69626b5db792219e64ad0e1d",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-grayscale-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-grayscale-01.png",
+      "sha256": "0de390621c29865fb0f70ee55c431fa8214265aa80453c4e5b32d0b03252baa7",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-jpeg35-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-jpeg35-01.png",
+      "sha256": "763c32e8523fecc6d26308b6885cfe1bf3bde2296420d77820b8a613936a167a",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-rotate-minus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-rotate-minus6-01.png",
+      "sha256": "749e0bea98a7a7d2b5fc23b4100c4f43a25b7eba8c72e90cc61b8e25440314d0",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-rotate-plus6-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-rotate-plus6-01.png",
+      "sha256": "5c15ebeb55779d7f5e0b82479e89b6d016b70ddab74ebe430c179b213a4afa93",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    },
+    {
+      "old": "dataset_candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-scan-blur-01.png",
+      "new": "data/candidates/augmentation_20261022/derived/university-of-the-thai-chamber-of-commerce/university-of-the-thai-chamber-of-commerce-logo-scan-blur-01.png",
+      "sha256": "de7c10701f4c9d7ca5cb9749505473c24d71bb0e7f94fcc2f88270422de1e152",
+      "kind": "candidate",
+      "university": null,
+      "renamed_university_asset": false
+    }
+  ]
+}

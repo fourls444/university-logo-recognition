@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+  "source_document_bytes": 23128063,
+  "source_document_pages": 192,
+  "images": [
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-thai-color-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 12,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        176,
+        290,
+        486,
+        607
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "11d86fa938211d474e14248d5afb341b04caedc1353f8450302e102e0a77c809",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-seal-english-color-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 12,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        755,
+        290,
+        1065,
+        607
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "f9a969699dc1f41a326c7de7c4fe48007c62ba4e237e12b55597aa71cdda69b2",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-primary-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        64,
+        237,
+        305,
+        327
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "ebc5c3776a5d87ea32e7167521de2b3d2d5dd7407bbea1be318ca895eaad2cbd",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-black-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        340,
+        237,
+        599,
+        327
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "696af4a895494e11dfb51d25b0cffc0f8ae9abe41bde8c1ff4e30dbb530821a4",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-reversed-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        620,
+        224,
+        879,
+        345
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "fbe561473efb3155d6c7dc2528e4c93c7eacb7bfc010e47c0c151dcc2ad366d2",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-green-background-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        897,
+        224,
+        1157,
+        345
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "2c1ab6d3669dd44c0608a5b7692d5b4985de2b4c644d76e12952097b8d68b9fc",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-brown-background-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        897,
+        345,
+        1157,
+        465
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "5f56dd291c5fdd078a94b14cb17c71cf9761530951e73b75e79a700bcf9cc7ad",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-gray-background-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        897,
+        465,
+        1157,
+        585
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "946f0734cfb43415e4b13b15994c9bdf4a55ffd98e9060aac4f4f6b528fb894a",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    },
+    {
+      "file": "data/candidates/expansion_20261022/derived/kasetsart-university/kasetsart-university-logo-horizontal-yellow-background-01.png",
+      "university": "Kasetsart University",
+      "source_page": "https://ku.ac.th/th/kulogo?category=64",
+      "document_url": "https://www.ku.ac.th/web-upload/m_document/KSU_Manual.pdf",
+      "parent_file": "data/candidates/expansion_20261022/sources/documents/kasetsart-university-identity-manual.pdf",
+      "parent_sha256": "ee534fc57fda66903b5638cd2863ef19910250e66296087fcb3a095b815fb876",
+      "pdf_page": 22,
+      "render_scale": 1.5,
+      "crop_xyxy": [
+        897,
+        585,
+        1157,
+        712
+      ],
+      "source_group": "Kasetsart University official branding (keep related variants in one split)",
+      "split": "validation",
+      "split_reason": "Same official branding family already held out by active manifest; never import these as training.",
+      "sha256": "2fbfba604289492ca39ada7c6db01d57f6c8ba13376a827449adc55c0b32062a",
+      "status": "visually_reviewed_candidate_not_in_active_manifest",
+      "rights": "Official university artwork. Download access does not establish redistribution permission."
+    }
+  ],
+  "failed_sources": [
+    {
+      "url": "https://mahidol.ac.th/wp-content/uploads/document/logo_mahidol/MU-Visual-Identity-Guideline01.pdf",
+      "status": 403,
+      "action": "Stopped; no bypass attempted"
+    }
+  ]
+}
