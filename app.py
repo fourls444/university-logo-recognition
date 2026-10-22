@@ -249,7 +249,7 @@ def main():
         crop = None
         requested = False
         with left:
-            with st.container(key='upload_panel'):
+            with st.container(border=True, key='upload_panel'):
                 st.subheader('Logo image')
                 uploaded = st.file_uploader('เลือกรูปโลโก้', key='logo_upload', type=['png', 'jpg', 'jpeg', 'webp', 'bmp', 'tif', 'tiff'], max_upload_size=20,
                                             label_visibility='collapsed', help='PNG, JPG, WEBP, BMP หรือ TIFF ขนาดไม่เกิน 20 MB')
@@ -264,7 +264,7 @@ def main():
                         crop = select_search_image(image, digest)
                 requested = st.button('ค้นหาโลโก้', type='primary', width='stretch', disabled=crop is None, key='search_action')
         with right:
-            with st.container(border=True):
+            with st.container(border=True, key='results_panel'):
                 st.subheader('Results')
                 if crop is None:
                     empty_state('ยังไม่มีผลค้นหา', 'เลือกรูปภาพ แล้วกดค้นหาโลโก้')
